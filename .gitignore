@@ -1,0 +1,5 @@
+.venv/
+.nltk_data/
+__pycache__/
+*.py[cod]
+
