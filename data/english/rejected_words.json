@@ -355,8 +355,8 @@
   },
   {
     "word": "also",
-    "stage": "wordnet",
-    "reason": "No usable modern content-word sense for lemma: also",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {

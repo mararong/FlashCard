@@ -72,7 +72,7 @@ FUNCTION_WORDS = {
     "under", "underneath", "until", "up", "upon", "via", "with", "within",
     "without",
     # conjunctions and clause markers
-    "and", "or", "but", "nor", "so", "yet", "as", "because", "although",
+    "and", "or", "but", "nor", "so", "yet", "also", "as", "because", "although",
     "though", "unless", "whether", "while", "whereas", "if", "than", "when",
     "whenever", "where", "wherever", "why", "how",
     # auxiliaries, modals, copulas, negation, and existential/function adverbs
@@ -313,7 +313,7 @@ def upsert_rejection(
     rejected[:] = [
         item
         for item in rejected
-        if not (item.get("word") == word and item.get("stage") == stage)
+        if item.get("word") != word
     ]
     rejected.append(
         {
