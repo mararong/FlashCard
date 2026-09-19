@@ -53,6 +53,33 @@ Every object must have exactly this shape:
 Use each supplied word exactly once and do not add words."""
 
 
+EVALUATION_FORMAT = {
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "word": {"type": "string"},
+            "abstractness": {"type": "integer", "minimum": 0, "maximum": 2},
+            "semantic_complexity": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 2,
+            },
+            "form_complexity": {"type": "integer", "minimum": 0, "maximum": 1},
+            "register": {"type": "integer", "minimum": 0, "maximum": 2},
+        },
+        "required": [
+            "word",
+            "abstractness",
+            "semantic_complexity",
+            "form_complexity",
+            "register",
+        ],
+        "additionalProperties": False,
+    },
+}
+
+
 class OllamaEvaluator(DifficultyEvaluator):
     """Difficulty evaluator backed by Ollama's local chat API."""
 
@@ -62,11 +89,13 @@ class OllamaEvaluator(DifficultyEvaluator):
         model: str,
         timeout_seconds: float = 120.0,
         temperature: float = 0.0,
+        context_window: int = 16_384,
     ) -> None:
         self.base_url = base_url.rstrip("/")
         self.model = model
         self.timeout_seconds = timeout_seconds
         self.temperature = temperature
+        self.context_window = context_window
 
     def evaluate_words(self, batch: list[dict[str, Any]]) -> list[dict[str, Any]]:
         compact_input = [
@@ -74,15 +103,28 @@ class OllamaEvaluator(DifficultyEvaluator):
                 "word": item["word"],
                 "parts_of_speech": item["parts_of_speech"],
                 "definitions": item["definitions"],
-                "senses": item["senses"],
+                # Definitions and POS are sufficient for scoring. Excluding the
+                # examples/synonym lists keeps a 30-word local batch practical.
+                "senses": [
+                    {
+                        "part_of_speech": sense["part_of_speech"],
+                        "definition_en": sense["definition_en"],
+                    }
+                    for sense in item["senses"]
+                ],
             }
             for item in batch
         ]
         payload = {
             "model": self.model,
             "stream": False,
-            "format": "json",
-            "options": {"temperature": self.temperature},
+            # A schema is more reliable than format="json": some models otherwise
+            # wrap the requested array in a top-level object.
+            "format": EVALUATION_FORMAT,
+            "options": {
+                "temperature": self.temperature,
+                "num_ctx": self.context_window,
+            },
             "messages": [
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {
@@ -125,4 +167,3 @@ class OllamaEvaluator(DifficultyEvaluator):
         if not isinstance(evaluations, list):
             raise AIProviderError("The model response must be a JSON array")
         return evaluations
-

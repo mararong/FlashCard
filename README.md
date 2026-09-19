@@ -55,6 +55,8 @@ python scripts/build_english_vocabulary.py
 --max-senses 8          단어당 사용할 주요 WordNet sense 수
 --model qwen2.5:7b      Ollama 모델
 --ollama-url URL        Ollama 서버 주소
+--ai-timeout 300        AI batch 요청 제한 시간(초)
+--ai-context-window 16384  Ollama 문맥 크기
 --resume                기존 결과에서 재개(기본 동작)
 --no-resume             출력이 없는 경우에만 새로 시작
 --reset                 기존 두 JSON을 비우고 처음부터 시작

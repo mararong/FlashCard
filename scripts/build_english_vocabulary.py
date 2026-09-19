@@ -31,7 +31,8 @@ DEFAULT_MAX_SENSES = 8
 DEFAULT_MODEL = os.environ.get("OLLAMA_MODEL", "qwen2.5:7b")
 DEFAULT_OLLAMA_URL = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
 DEFAULT_AI_RETRIES = 3
-DEFAULT_AI_TIMEOUT_SECONDS = 120.0
+DEFAULT_AI_TIMEOUT_SECONDS = 300.0
+DEFAULT_AI_CONTEXT_WINDOW = 16_384
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = PROJECT_ROOT / "data" / "english"
@@ -402,6 +403,9 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument("--ollama-url", default=DEFAULT_OLLAMA_URL)
     parser.add_argument("--ai-retries", type=int, default=DEFAULT_AI_RETRIES)
     parser.add_argument("--ai-timeout", type=float, default=DEFAULT_AI_TIMEOUT_SECONDS)
+    parser.add_argument(
+        "--ai-context-window", type=int, default=DEFAULT_AI_CONTEXT_WINDOW
+    )
     resume_group = parser.add_mutually_exclusive_group()
     resume_group.add_argument("--resume", dest="resume", action="store_true")
     resume_group.add_argument("--no-resume", dest="resume", action="store_false")
@@ -421,6 +425,7 @@ def main(argv: list[str] | None = None) -> int:
         model=args.model,
         timeout_seconds=args.ai_timeout,
         temperature=0.0,
+        context_window=args.ai_context_window,
     )
     try:
         return run_pipeline(args, evaluator)
@@ -438,4 +443,3 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

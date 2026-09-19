@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "word": "the",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "to",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "and",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "of",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "for",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "that",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "you",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "with",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "this",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "from",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "my",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "we",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "your",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "his",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "they",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  },
+  {
+    "word": "if",
+    "stage": "wordnet",
+    "reason": "No usable WordNet definition",
+    "retryable": false
+  }
+]

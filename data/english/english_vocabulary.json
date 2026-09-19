@@ -1,1 +1,2880 @@
-[]
+[
+  {
+    "word": "in",
+    "parts_of_speech": [
+      "noun",
+      "adjective",
+      "adverb"
+    ],
+    "definitions": [
+      "a unit of length equal to one twelfth of a foot",
+      "a rare soft silvery metallic element; occurs in small quantities in sphalerite",
+      "a state in midwestern United States",
+      "holding office",
+      "directed or bound inward",
+      "currently fashionable",
+      "to or toward the inside of"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a unit of length equal to one twelfth of a foot",
+        "examples": [],
+        "synonyms": [
+          "inch",
+          "in"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a rare soft silvery metallic element; occurs in small quantities in sphalerite",
+        "examples": [],
+        "synonyms": [
+          "indium",
+          "In",
+          "atomic number 49"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a state in midwestern United States",
+        "examples": [],
+        "synonyms": [
+          "Indiana",
+          "Hoosier State",
+          "IN"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "holding office",
+        "examples": [
+          "the in party"
+        ],
+        "synonyms": [
+          "in"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "directed or bound inward",
+        "examples": [
+          "took the in bus",
+          "the in basket"
+        ],
+        "synonyms": [
+          "in"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "currently fashionable",
+        "examples": [
+          "the in thing to do",
+          "large shoulder pads are in"
+        ],
+        "synonyms": [
+          "in"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to or toward the inside of",
+        "examples": [
+          "come in",
+          "smash in the door"
+        ],
+        "synonyms": [
+          "in",
+          "inwards",
+          "inward"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a unit of length equal to one twelfth of a foot",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a rare soft silvery metallic element; occurs in small quantities in sphalerite",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a state in midwestern United States",
+        "examples": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "holding office",
+        "examples": [
+          "the in party"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "directed or bound inward",
+        "examples": [
+          "took the in bus",
+          "the in basket"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "currently fashionable",
+        "examples": [
+          "the in thing to do",
+          "large shoulder pads are in"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to or toward the inside of",
+        "examples": [
+          "come in",
+          "smash in the door"
+        ]
+      }
+    ],
+    "examples": [
+      "the in party",
+      "took the in bus",
+      "the in basket",
+      "the in thing to do",
+      "large shoulder pads are in",
+      "come in",
+      "smash in the door"
+    ],
+    "synonyms": [
+      "inch",
+      "indium",
+      "atomic number 49",
+      "Indiana",
+      "Hoosier State",
+      "inwards",
+      "inward"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 7.27
+    }
+  },
+  {
+    "word": "is",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "definitions": [
+      "have the quality of being; (copula, used with an adjective or a predicate noun)",
+      "be identical to; be someone or something",
+      "occupy a certain position or area; be somewhere",
+      "have an existence, be extant",
+      "happen, occur, take place",
+      "be identical or equivalent to",
+      "form or compose",
+      "work in a specific place, with a specific subject, or in a specific function"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "examples": [
+          "John is rich",
+          "This is not a good answer"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical to; be someone or something",
+        "examples": [
+          "The president of the company is John Smith",
+          "This is my house"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "occupy a certain position or area; be somewhere",
+        "examples": [
+          "Where is my umbrella?",
+          "The toolshed is in the back",
+          "What is behind this behavior?"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have an existence, be extant",
+        "examples": [
+          "Is there a God?"
+        ],
+        "synonyms": [
+          "exist",
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "happen, occur, take place",
+        "examples": [
+          "I lost my wallet; this was during the visit to my parents' house",
+          "There were two hundred people at his funeral",
+          "There was a lot of noise in the kitchen"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical or equivalent to",
+        "examples": [
+          "One dollar equals 1,000 rubles these days!"
+        ],
+        "synonyms": [
+          "equal",
+          "be"
+        ],
+        "antonyms": [
+          "differ"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "form or compose",
+        "examples": [
+          "This money is my only income",
+          "The stone wall was the backdrop for the performance",
+          "These constitute my entire belonging",
+          "The children made up the chorus",
+          "This sum represents my entire income for a year",
+          "These few men comprise his entire army"
+        ],
+        "synonyms": [
+          "constitute",
+          "represent",
+          "make up",
+          "comprise",
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "work in a specific place, with a specific subject, or in a specific function",
+        "examples": [
+          "He is a herpetologist",
+          "She is our resident philosopher"
+        ],
+        "synonyms": [
+          "be",
+          "follow"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "examples": [
+          "John is rich",
+          "This is not a good answer"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical to; be someone or something",
+        "examples": [
+          "The president of the company is John Smith",
+          "This is my house"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "occupy a certain position or area; be somewhere",
+        "examples": [
+          "Where is my umbrella?",
+          "The toolshed is in the back",
+          "What is behind this behavior?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have an existence, be extant",
+        "examples": [
+          "Is there a God?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "happen, occur, take place",
+        "examples": [
+          "I lost my wallet; this was during the visit to my parents' house",
+          "There were two hundred people at his funeral",
+          "There was a lot of noise in the kitchen"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical or equivalent to",
+        "examples": [
+          "One dollar equals 1,000 rubles these days!"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "form or compose",
+        "examples": [
+          "This money is my only income",
+          "The stone wall was the backdrop for the performance",
+          "These constitute my entire belonging",
+          "The children made up the chorus",
+          "This sum represents my entire income for a year",
+          "These few men comprise his entire army"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "work in a specific place, with a specific subject, or in a specific function",
+        "examples": [
+          "He is a herpetologist",
+          "She is our resident philosopher"
+        ]
+      }
+    ],
+    "examples": [
+      "John is rich",
+      "This is not a good answer",
+      "The president of the company is John Smith",
+      "This is my house",
+      "Where is my umbrella?",
+      "The toolshed is in the back",
+      "What is behind this behavior?",
+      "Is there a God?",
+      "I lost my wallet; this was during the visit to my parents' house",
+      "There were two hundred people at his funeral",
+      "There was a lot of noise in the kitchen",
+      "One dollar equals 1,000 rubles these days!",
+      "This money is my only income",
+      "The stone wall was the backdrop for the performance",
+      "These constitute my entire belonging",
+      "The children made up the chorus",
+      "This sum represents my entire income for a year",
+      "These few men comprise his entire army",
+      "He is a herpetologist",
+      "She is our resident philosopher"
+    ],
+    "synonyms": [
+      "be",
+      "exist",
+      "equal",
+      "constitute",
+      "represent",
+      "make up",
+      "comprise",
+      "follow"
+    ],
+    "antonyms": [
+      "differ"
+    ],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 7.07
+    }
+  },
+  {
+    "word": "it",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "definitions": [
+      "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+        "examples": [],
+        "synonyms": [
+          "information technology",
+          "IT"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+        "examples": []
+      }
+    ],
+    "examples": [],
+    "synonyms": [
+      "information technology"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.95
+    }
+  },
+  {
+    "word": "on",
+    "parts_of_speech": [
+      "adjective",
+      "adverb"
+    ],
+    "definitions": [
+      "in operation or operational",
+      "(of events) planned or scheduled",
+      "with a forward motion",
+      "indicates continuity or persistence or concentration",
+      "in a state required for something to function or be effective"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "in operation or operational",
+        "examples": [
+          "left the oven on",
+          "the switch is in the on position"
+        ],
+        "synonyms": [
+          "on"
+        ],
+        "antonyms": [
+          "off"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "(of events) planned or scheduled",
+        "examples": [
+          "the picnic is on, rain or shine",
+          "we have nothing on for Friday night"
+        ],
+        "synonyms": [
+          "on"
+        ],
+        "antonyms": [
+          "off"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "with a forward motion",
+        "examples": [
+          "we drove along admiring the view",
+          "the horse trotted along at a steady pace",
+          "the circus traveled on to the next city",
+          "move along",
+          "march on"
+        ],
+        "synonyms": [
+          "along",
+          "on"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "indicates continuity or persistence or concentration",
+        "examples": [
+          "his spirit lives on",
+          "shall I read on?"
+        ],
+        "synonyms": [
+          "on"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in a state required for something to function or be effective",
+        "examples": [
+          "turn the lights on",
+          "get a load on"
+        ],
+        "synonyms": [
+          "on"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "in operation or operational",
+        "examples": [
+          "left the oven on",
+          "the switch is in the on position"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "(of events) planned or scheduled",
+        "examples": [
+          "the picnic is on, rain or shine",
+          "we have nothing on for Friday night"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "with a forward motion",
+        "examples": [
+          "we drove along admiring the view",
+          "the horse trotted along at a steady pace",
+          "the circus traveled on to the next city",
+          "move along",
+          "march on"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "indicates continuity or persistence or concentration",
+        "examples": [
+          "his spirit lives on",
+          "shall I read on?"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in a state required for something to function or be effective",
+        "examples": [
+          "turn the lights on",
+          "get a load on"
+        ]
+      }
+    ],
+    "examples": [
+      "left the oven on",
+      "the switch is in the on position",
+      "the picnic is on, rain or shine",
+      "we have nothing on for Friday night",
+      "we drove along admiring the view",
+      "the horse trotted along at a steady pace",
+      "the circus traveled on to the next city",
+      "move along",
+      "march on",
+      "his spirit lives on",
+      "shall I read on?",
+      "turn the lights on",
+      "get a load on"
+    ],
+    "synonyms": [
+      "along"
+    ],
+    "antonyms": [
+      "off"
+    ],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.91
+    }
+  },
+  {
+    "word": "was",
+    "parts_of_speech": [
+      "noun",
+      "verb"
+    ],
+    "definitions": [
+      "a state in northwestern United States on the Pacific",
+      "have the quality of being; (copula, used with an adjective or a predicate noun)",
+      "be identical to; be someone or something",
+      "occupy a certain position or area; be somewhere",
+      "have an existence, be extant",
+      "happen, occur, take place",
+      "be identical or equivalent to",
+      "form or compose"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a state in northwestern United States on the Pacific",
+        "examples": [],
+        "synonyms": [
+          "Washington",
+          "Evergreen State",
+          "WA"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "examples": [
+          "John is rich",
+          "This is not a good answer"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical to; be someone or something",
+        "examples": [
+          "The president of the company is John Smith",
+          "This is my house"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "occupy a certain position or area; be somewhere",
+        "examples": [
+          "Where is my umbrella?",
+          "The toolshed is in the back",
+          "What is behind this behavior?"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have an existence, be extant",
+        "examples": [
+          "Is there a God?"
+        ],
+        "synonyms": [
+          "exist",
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "happen, occur, take place",
+        "examples": [
+          "I lost my wallet; this was during the visit to my parents' house",
+          "There were two hundred people at his funeral",
+          "There was a lot of noise in the kitchen"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical or equivalent to",
+        "examples": [
+          "One dollar equals 1,000 rubles these days!"
+        ],
+        "synonyms": [
+          "equal",
+          "be"
+        ],
+        "antonyms": [
+          "differ"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "form or compose",
+        "examples": [
+          "This money is my only income",
+          "The stone wall was the backdrop for the performance",
+          "These constitute my entire belonging",
+          "The children made up the chorus",
+          "This sum represents my entire income for a year",
+          "These few men comprise his entire army"
+        ],
+        "synonyms": [
+          "constitute",
+          "represent",
+          "make up",
+          "comprise",
+          "be"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a state in northwestern United States on the Pacific",
+        "examples": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "examples": [
+          "John is rich",
+          "This is not a good answer"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical to; be someone or something",
+        "examples": [
+          "The president of the company is John Smith",
+          "This is my house"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "occupy a certain position or area; be somewhere",
+        "examples": [
+          "Where is my umbrella?",
+          "The toolshed is in the back",
+          "What is behind this behavior?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have an existence, be extant",
+        "examples": [
+          "Is there a God?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "happen, occur, take place",
+        "examples": [
+          "I lost my wallet; this was during the visit to my parents' house",
+          "There were two hundred people at his funeral",
+          "There was a lot of noise in the kitchen"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical or equivalent to",
+        "examples": [
+          "One dollar equals 1,000 rubles these days!"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "form or compose",
+        "examples": [
+          "This money is my only income",
+          "The stone wall was the backdrop for the performance",
+          "These constitute my entire belonging",
+          "The children made up the chorus",
+          "This sum represents my entire income for a year",
+          "These few men comprise his entire army"
+        ]
+      }
+    ],
+    "examples": [
+      "John is rich",
+      "This is not a good answer",
+      "The president of the company is John Smith",
+      "This is my house",
+      "Where is my umbrella?",
+      "The toolshed is in the back",
+      "What is behind this behavior?",
+      "Is there a God?",
+      "I lost my wallet; this was during the visit to my parents' house",
+      "There were two hundred people at his funeral",
+      "There was a lot of noise in the kitchen",
+      "One dollar equals 1,000 rubles these days!",
+      "This money is my only income",
+      "The stone wall was the backdrop for the performance",
+      "These constitute my entire belonging",
+      "The children made up the chorus",
+      "This sum represents my entire income for a year",
+      "These few men comprise his entire army"
+    ],
+    "synonyms": [
+      "Washington",
+      "Evergreen State",
+      "WA",
+      "be",
+      "exist",
+      "equal",
+      "constitute",
+      "represent",
+      "make up",
+      "comprise"
+    ],
+    "antonyms": [
+      "differ"
+    ],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.82
+    }
+  },
+  {
+    "word": "be",
+    "parts_of_speech": [
+      "noun",
+      "verb"
+    ],
+    "definitions": [
+      "a light strong brittle grey toxic bivalent metallic element",
+      "have the quality of being; (copula, used with an adjective or a predicate noun)",
+      "be identical to; be someone or something",
+      "occupy a certain position or area; be somewhere",
+      "have an existence, be extant",
+      "happen, occur, take place",
+      "be identical or equivalent to",
+      "form or compose"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a light strong brittle grey toxic bivalent metallic element",
+        "examples": [],
+        "synonyms": [
+          "beryllium",
+          "Be",
+          "glucinium",
+          "atomic number 4"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "examples": [
+          "John is rich",
+          "This is not a good answer"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical to; be someone or something",
+        "examples": [
+          "The president of the company is John Smith",
+          "This is my house"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "occupy a certain position or area; be somewhere",
+        "examples": [
+          "Where is my umbrella?",
+          "The toolshed is in the back",
+          "What is behind this behavior?"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have an existence, be extant",
+        "examples": [
+          "Is there a God?"
+        ],
+        "synonyms": [
+          "exist",
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "happen, occur, take place",
+        "examples": [
+          "I lost my wallet; this was during the visit to my parents' house",
+          "There were two hundred people at his funeral",
+          "There was a lot of noise in the kitchen"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical or equivalent to",
+        "examples": [
+          "One dollar equals 1,000 rubles these days!"
+        ],
+        "synonyms": [
+          "equal",
+          "be"
+        ],
+        "antonyms": [
+          "differ"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "form or compose",
+        "examples": [
+          "This money is my only income",
+          "The stone wall was the backdrop for the performance",
+          "These constitute my entire belonging",
+          "The children made up the chorus",
+          "This sum represents my entire income for a year",
+          "These few men comprise his entire army"
+        ],
+        "synonyms": [
+          "constitute",
+          "represent",
+          "make up",
+          "comprise",
+          "be"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a light strong brittle grey toxic bivalent metallic element",
+        "examples": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "examples": [
+          "John is rich",
+          "This is not a good answer"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical to; be someone or something",
+        "examples": [
+          "The president of the company is John Smith",
+          "This is my house"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "occupy a certain position or area; be somewhere",
+        "examples": [
+          "Where is my umbrella?",
+          "The toolshed is in the back",
+          "What is behind this behavior?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have an existence, be extant",
+        "examples": [
+          "Is there a God?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "happen, occur, take place",
+        "examples": [
+          "I lost my wallet; this was during the visit to my parents' house",
+          "There were two hundred people at his funeral",
+          "There was a lot of noise in the kitchen"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical or equivalent to",
+        "examples": [
+          "One dollar equals 1,000 rubles these days!"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "form or compose",
+        "examples": [
+          "This money is my only income",
+          "The stone wall was the backdrop for the performance",
+          "These constitute my entire belonging",
+          "The children made up the chorus",
+          "This sum represents my entire income for a year",
+          "These few men comprise his entire army"
+        ]
+      }
+    ],
+    "examples": [
+      "John is rich",
+      "This is not a good answer",
+      "The president of the company is John Smith",
+      "This is my house",
+      "Where is my umbrella?",
+      "The toolshed is in the back",
+      "What is behind this behavior?",
+      "Is there a God?",
+      "I lost my wallet; this was during the visit to my parents' house",
+      "There were two hundred people at his funeral",
+      "There was a lot of noise in the kitchen",
+      "One dollar equals 1,000 rubles these days!",
+      "This money is my only income",
+      "The stone wall was the backdrop for the performance",
+      "These constitute my entire belonging",
+      "The children made up the chorus",
+      "This sum represents my entire income for a year",
+      "These few men comprise his entire army"
+    ],
+    "synonyms": [
+      "beryllium",
+      "glucinium",
+      "atomic number 4",
+      "exist",
+      "equal",
+      "constitute",
+      "represent",
+      "make up",
+      "comprise"
+    ],
+    "antonyms": [
+      "differ"
+    ],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.79
+    }
+  },
+  {
+    "word": "as",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "definitions": [
+      "a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar",
+      "a United States territory on the eastern part of the island of Samoa",
+      "a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation",
+      "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes",
+      "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)",
+      "(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA",
+      "the basic unit of electric current adopted under the Systeme International d'Unites",
+      "the 1st letter of the Roman alphabet"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar",
+        "examples": [],
+        "synonyms": [
+          "arsenic",
+          "As",
+          "atomic number 33"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a United States territory on the eastern part of the island of Samoa",
+        "examples": [],
+        "synonyms": [
+          "American Samoa",
+          "Eastern Samoa",
+          "AS"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation",
+        "examples": [],
+        "synonyms": [
+          "angstrom",
+          "angstrom unit",
+          "A"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes",
+        "examples": [],
+        "synonyms": [
+          "vitamin A",
+          "antiophthalmic factor",
+          "axerophthol",
+          "A"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)",
+        "examples": [],
+        "synonyms": [
+          "deoxyadenosine monophosphate",
+          "A"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA",
+        "examples": [],
+        "synonyms": [
+          "adenine",
+          "A"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the basic unit of electric current adopted under the Systeme International d'Unites",
+        "examples": [
+          "a typical household circuit carries 15 to 50 amps"
+        ],
+        "synonyms": [
+          "ampere",
+          "amp",
+          "A"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the 1st letter of the Roman alphabet",
+        "examples": [],
+        "synonyms": [
+          "A",
+          "a"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a United States territory on the eastern part of the island of Samoa",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the basic unit of electric current adopted under the Systeme International d'Unites",
+        "examples": [
+          "a typical household circuit carries 15 to 50 amps"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the 1st letter of the Roman alphabet",
+        "examples": []
+      }
+    ],
+    "examples": [
+      "a typical household circuit carries 15 to 50 amps"
+    ],
+    "synonyms": [
+      "arsenic",
+      "atomic number 33",
+      "American Samoa",
+      "Eastern Samoa",
+      "angstrom",
+      "angstrom unit",
+      "A",
+      "vitamin A",
+      "antiophthalmic factor",
+      "axerophthol",
+      "deoxyadenosine monophosphate",
+      "adenine",
+      "ampere",
+      "amp"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.77
+    }
+  },
+  {
+    "word": "are",
+    "parts_of_speech": [
+      "noun",
+      "verb"
+    ],
+    "definitions": [
+      "a unit of surface area equal to 100 square meters",
+      "have the quality of being; (copula, used with an adjective or a predicate noun)",
+      "be identical to; be someone or something",
+      "occupy a certain position or area; be somewhere",
+      "have an existence, be extant",
+      "happen, occur, take place",
+      "be identical or equivalent to",
+      "form or compose"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a unit of surface area equal to 100 square meters",
+        "examples": [],
+        "synonyms": [
+          "are",
+          "ar"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "examples": [
+          "John is rich",
+          "This is not a good answer"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical to; be someone or something",
+        "examples": [
+          "The president of the company is John Smith",
+          "This is my house"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "occupy a certain position or area; be somewhere",
+        "examples": [
+          "Where is my umbrella?",
+          "The toolshed is in the back",
+          "What is behind this behavior?"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have an existence, be extant",
+        "examples": [
+          "Is there a God?"
+        ],
+        "synonyms": [
+          "exist",
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "happen, occur, take place",
+        "examples": [
+          "I lost my wallet; this was during the visit to my parents' house",
+          "There were two hundred people at his funeral",
+          "There was a lot of noise in the kitchen"
+        ],
+        "synonyms": [
+          "be"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical or equivalent to",
+        "examples": [
+          "One dollar equals 1,000 rubles these days!"
+        ],
+        "synonyms": [
+          "equal",
+          "be"
+        ],
+        "antonyms": [
+          "differ"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "form or compose",
+        "examples": [
+          "This money is my only income",
+          "The stone wall was the backdrop for the performance",
+          "These constitute my entire belonging",
+          "The children made up the chorus",
+          "This sum represents my entire income for a year",
+          "These few men comprise his entire army"
+        ],
+        "synonyms": [
+          "constitute",
+          "represent",
+          "make up",
+          "comprise",
+          "be"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a unit of surface area equal to 100 square meters",
+        "examples": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "examples": [
+          "John is rich",
+          "This is not a good answer"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical to; be someone or something",
+        "examples": [
+          "The president of the company is John Smith",
+          "This is my house"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "occupy a certain position or area; be somewhere",
+        "examples": [
+          "Where is my umbrella?",
+          "The toolshed is in the back",
+          "What is behind this behavior?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have an existence, be extant",
+        "examples": [
+          "Is there a God?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "happen, occur, take place",
+        "examples": [
+          "I lost my wallet; this was during the visit to my parents' house",
+          "There were two hundred people at his funeral",
+          "There was a lot of noise in the kitchen"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be identical or equivalent to",
+        "examples": [
+          "One dollar equals 1,000 rubles these days!"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "form or compose",
+        "examples": [
+          "This money is my only income",
+          "The stone wall was the backdrop for the performance",
+          "These constitute my entire belonging",
+          "The children made up the chorus",
+          "This sum represents my entire income for a year",
+          "These few men comprise his entire army"
+        ]
+      }
+    ],
+    "examples": [
+      "John is rich",
+      "This is not a good answer",
+      "The president of the company is John Smith",
+      "This is my house",
+      "Where is my umbrella?",
+      "The toolshed is in the back",
+      "What is behind this behavior?",
+      "Is there a God?",
+      "I lost my wallet; this was during the visit to my parents' house",
+      "There were two hundred people at his funeral",
+      "There was a lot of noise in the kitchen",
+      "One dollar equals 1,000 rubles these days!",
+      "This money is my only income",
+      "The stone wall was the backdrop for the performance",
+      "These constitute my entire belonging",
+      "The children made up the chorus",
+      "This sum represents my entire income for a year",
+      "These few men comprise his entire army"
+    ],
+    "synonyms": [
+      "ar",
+      "be",
+      "exist",
+      "equal",
+      "constitute",
+      "represent",
+      "make up",
+      "comprise"
+    ],
+    "antonyms": [
+      "differ"
+    ],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.74
+    }
+  },
+  {
+    "word": "have",
+    "parts_of_speech": [
+      "noun",
+      "verb"
+    ],
+    "definitions": [
+      "a person who possesses great material wealth",
+      "have or possess, either in a concrete or an abstract sense",
+      "have as a feature",
+      "go through (mental or physical states or experiences)",
+      "have ownership or possession of",
+      "cause to move; cause to be in a certain position or condition",
+      "serve oneself to, or consume regularly",
+      "have a personal or business relationship with someone"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a person who possesses great material wealth",
+        "examples": [],
+        "synonyms": [
+          "rich person",
+          "wealthy person",
+          "have"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have or possess, either in a concrete or an abstract sense",
+        "examples": [
+          "She has $1,000 in the bank",
+          "He has got two beautiful daughters",
+          "She holds a Master's degree from Harvard"
+        ],
+        "synonyms": [
+          "have",
+          "have got",
+          "hold"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have as a feature",
+        "examples": [
+          "This restaurant features the most famous chefs in France"
+        ],
+        "synonyms": [
+          "have",
+          "feature"
+        ],
+        "antonyms": [
+          "lack"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "go through (mental or physical states or experiences)",
+        "examples": [
+          "get an idea",
+          "experience vertigo",
+          "get nauseous",
+          "receive injuries",
+          "have a feeling"
+        ],
+        "synonyms": [
+          "experience",
+          "receive",
+          "have",
+          "get"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have ownership or possession of",
+        "examples": [
+          "He owns three houses in Florida",
+          "How many cars does she have?"
+        ],
+        "synonyms": [
+          "own",
+          "have",
+          "possess"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "cause to move; cause to be in a certain position or condition",
+        "examples": [
+          "He got his squad on the ball",
+          "This let me in for a big surprise",
+          "He got a girl into trouble"
+        ],
+        "synonyms": [
+          "get",
+          "let",
+          "have"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "serve oneself to, or consume regularly",
+        "examples": [
+          "Have another bowl of chicken soup!",
+          "I don't take sugar in my coffee"
+        ],
+        "synonyms": [
+          "consume",
+          "ingest",
+          "take in",
+          "take",
+          "have"
+        ],
+        "antonyms": [
+          "abstain"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have a personal or business relationship with someone",
+        "examples": [
+          "have a postdoc",
+          "have an assistant",
+          "have a lover"
+        ],
+        "synonyms": [
+          "have"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a person who possesses great material wealth",
+        "examples": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have or possess, either in a concrete or an abstract sense",
+        "examples": [
+          "She has $1,000 in the bank",
+          "He has got two beautiful daughters",
+          "She holds a Master's degree from Harvard"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have as a feature",
+        "examples": [
+          "This restaurant features the most famous chefs in France"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "go through (mental or physical states or experiences)",
+        "examples": [
+          "get an idea",
+          "experience vertigo",
+          "get nauseous",
+          "receive injuries",
+          "have a feeling"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have ownership or possession of",
+        "examples": [
+          "He owns three houses in Florida",
+          "How many cars does she have?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "cause to move; cause to be in a certain position or condition",
+        "examples": [
+          "He got his squad on the ball",
+          "This let me in for a big surprise",
+          "He got a girl into trouble"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "serve oneself to, or consume regularly",
+        "examples": [
+          "Have another bowl of chicken soup!",
+          "I don't take sugar in my coffee"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have a personal or business relationship with someone",
+        "examples": [
+          "have a postdoc",
+          "have an assistant",
+          "have a lover"
+        ]
+      }
+    ],
+    "examples": [
+      "She has $1,000 in the bank",
+      "He has got two beautiful daughters",
+      "She holds a Master's degree from Harvard",
+      "This restaurant features the most famous chefs in France",
+      "get an idea",
+      "experience vertigo",
+      "get nauseous",
+      "receive injuries",
+      "have a feeling",
+      "He owns three houses in Florida",
+      "How many cars does she have?",
+      "He got his squad on the ball",
+      "This let me in for a big surprise",
+      "He got a girl into trouble",
+      "Have another bowl of chicken soup!",
+      "I don't take sugar in my coffee",
+      "have a postdoc",
+      "have an assistant",
+      "have a lover"
+    ],
+    "synonyms": [
+      "rich person",
+      "wealthy person",
+      "have got",
+      "hold",
+      "feature",
+      "experience",
+      "receive",
+      "get",
+      "own",
+      "possess",
+      "let",
+      "consume",
+      "ingest",
+      "take in",
+      "take"
+    ],
+    "antonyms": [
+      "lack",
+      "abstain"
+    ],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.71
+    }
+  },
+  {
+    "word": "at",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "definitions": [
+      "a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium",
+      "100 at equal 1 kip in Laos"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium",
+        "examples": [],
+        "synonyms": [
+          "astatine",
+          "At",
+          "atomic number 85"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "100 at equal 1 kip in Laos",
+        "examples": [],
+        "synonyms": [
+          "at"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "100 at equal 1 kip in Laos",
+        "examples": []
+      }
+    ],
+    "examples": [],
+    "synonyms": [
+      "astatine",
+      "atomic number 85"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.7
+    }
+  },
+  {
+    "word": "he",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "definitions": [
+      "a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in economically extractable amounts in certain natural gases (as those found in Texas and Kansas)",
+      "the 5th letter of the Hebrew alphabet"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in economically extractable amounts in certain natural gases (as those found in Texas and Kansas)",
+        "examples": [],
+        "synonyms": [
+          "helium",
+          "He",
+          "atomic number 2"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the 5th letter of the Hebrew alphabet",
+        "examples": [],
+        "synonyms": [
+          "he"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in economically extractable amounts in certain natural gases (as those found in Texas and Kansas)",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the 5th letter of the Hebrew alphabet",
+        "examples": []
+      }
+    ],
+    "examples": [],
+    "synonyms": [
+      "helium",
+      "atomic number 2"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.69
+    }
+  },
+  {
+    "word": "not",
+    "parts_of_speech": [
+      "adverb"
+    ],
+    "definitions": [
+      "negation of a word or group of words"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "negation of a word or group of words",
+        "examples": [
+          "he does not speak French",
+          "she is not going",
+          "they are not friends",
+          "not many",
+          "not much",
+          "not at all"
+        ],
+        "synonyms": [
+          "not",
+          "non"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "negation of a word or group of words",
+        "examples": [
+          "he does not speak French",
+          "she is not going",
+          "they are not friends",
+          "not many",
+          "not much",
+          "not at all"
+        ]
+      }
+    ],
+    "examples": [
+      "he does not speak French",
+      "she is not going",
+      "they are not friends",
+      "not many",
+      "not much",
+      "not at all"
+    ],
+    "synonyms": [
+      "non"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.69
+    }
+  },
+  {
+    "word": "by",
+    "parts_of_speech": [
+      "adverb"
+    ],
+    "definitions": [
+      "so as to pass a given point",
+      "in reserve; not for immediate use"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "so as to pass a given point",
+        "examples": [
+          "every hour a train goes past"
+        ],
+        "synonyms": [
+          "by",
+          "past"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in reserve; not for immediate use",
+        "examples": [
+          "started setting aside money to buy a car",
+          "put something by for her old age",
+          "has a nest egg tucked away for a rainy day"
+        ],
+        "synonyms": [
+          "aside",
+          "by",
+          "away"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "so as to pass a given point",
+        "examples": [
+          "every hour a train goes past"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in reserve; not for immediate use",
+        "examples": [
+          "started setting aside money to buy a car",
+          "put something by for her old age",
+          "has a nest egg tucked away for a rainy day"
+        ]
+      }
+    ],
+    "examples": [
+      "every hour a train goes past",
+      "started setting aside money to buy a car",
+      "put something by for her old age",
+      "has a nest egg tucked away for a rainy day"
+    ],
+    "synonyms": [
+      "past",
+      "aside",
+      "away"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.66
+    }
+  },
+  {
+    "word": "but",
+    "parts_of_speech": [
+      "adverb"
+    ],
+    "definitions": [
+      "and nothing more"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "and nothing more",
+        "examples": [
+          "I was merely asking",
+          "it is simply a matter of time",
+          "just a scratch",
+          "he was only a child",
+          "hopes that last but a moment"
+        ],
+        "synonyms": [
+          "merely",
+          "simply",
+          "just",
+          "only",
+          "but"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "and nothing more",
+        "examples": [
+          "I was merely asking",
+          "it is simply a matter of time",
+          "just a scratch",
+          "he was only a child",
+          "hopes that last but a moment"
+        ]
+      }
+    ],
+    "examples": [
+      "I was merely asking",
+      "it is simply a matter of time",
+      "just a scratch",
+      "he was only a child",
+      "hopes that last but a moment"
+    ],
+    "synonyms": [
+      "merely",
+      "simply",
+      "just",
+      "only"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.63
+    }
+  },
+  {
+    "word": "or",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "definitions": [
+      "a state in northwestern United States on the Pacific",
+      "a room in a hospital equipped for the performance of surgical operations"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a state in northwestern United States on the Pacific",
+        "examples": [],
+        "synonyms": [
+          "Oregon",
+          "Beaver State",
+          "OR"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a room in a hospital equipped for the performance of surgical operations",
+        "examples": [
+          "great care is taken to keep the operating rooms aseptic"
+        ],
+        "synonyms": [
+          "operating room",
+          "OR",
+          "operating theater",
+          "operating theatre",
+          "surgery"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a state in northwestern United States on the Pacific",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a room in a hospital equipped for the performance of surgical operations",
+        "examples": [
+          "great care is taken to keep the operating rooms aseptic"
+        ]
+      }
+    ],
+    "examples": [
+      "great care is taken to keep the operating rooms aseptic"
+    ],
+    "synonyms": [
+      "Oregon",
+      "Beaver State",
+      "operating room",
+      "operating theater",
+      "operating theatre",
+      "surgery"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.54
+    }
+  },
+  {
+    "word": "an",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "definitions": [
+      "an associate degree in nursing"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "an associate degree in nursing",
+        "examples": [],
+        "synonyms": [
+          "Associate in Nursing",
+          "AN"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "an associate degree in nursing",
+        "examples": []
+      }
+    ],
+    "examples": [],
+    "synonyms": [
+      "Associate in Nursing"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.53
+    }
+  },
+  {
+    "word": "all",
+    "parts_of_speech": [
+      "adjective",
+      "adverb"
+    ],
+    "definitions": [
+      "quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
+      "completely given to or absorbed by",
+      "to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
+        "examples": [
+          "we sat up all night",
+          "ate all the food",
+          "all men are mortal",
+          "all parties are welcome"
+        ],
+        "synonyms": [
+          "all"
+        ],
+        "antonyms": [
+          "some",
+          "no"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "completely given to or absorbed by",
+        "examples": [
+          "became all attention"
+        ],
+        "synonyms": [
+          "all"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')",
+        "examples": [
+          "he was wholly convinced",
+          "entirely satisfied with the meal",
+          "it was completely different from what we expected",
+          "was completely at fault",
+          "a totally new situation",
+          "the directions were all wrong",
+          "it was not altogether her fault",
+          "an altogether new approach",
+          "a whole new idea"
+        ],
+        "synonyms": [
+          "wholly",
+          "entirely",
+          "completely",
+          "totally",
+          "all",
+          "altogether",
+          "whole"
+        ],
+        "antonyms": [
+          "partly"
+        ]
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
+        "examples": [
+          "we sat up all night",
+          "ate all the food",
+          "all men are mortal",
+          "all parties are welcome"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "completely given to or absorbed by",
+        "examples": [
+          "became all attention"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')",
+        "examples": [
+          "he was wholly convinced",
+          "entirely satisfied with the meal",
+          "it was completely different from what we expected",
+          "was completely at fault",
+          "a totally new situation",
+          "the directions were all wrong",
+          "it was not altogether her fault",
+          "an altogether new approach",
+          "a whole new idea"
+        ]
+      }
+    ],
+    "examples": [
+      "we sat up all night",
+      "ate all the food",
+      "all men are mortal",
+      "all parties are welcome",
+      "became all attention",
+      "he was wholly convinced",
+      "entirely satisfied with the meal",
+      "it was completely different from what we expected",
+      "was completely at fault",
+      "a totally new situation",
+      "the directions were all wrong",
+      "it was not altogether her fault",
+      "an altogether new approach",
+      "a whole new idea"
+    ],
+    "synonyms": [
+      "wholly",
+      "entirely",
+      "completely",
+      "totally",
+      "altogether",
+      "whole"
+    ],
+    "antonyms": [
+      "some",
+      "no",
+      "partly"
+    ],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.52
+    }
+  },
+  {
+    "word": "so",
+    "parts_of_speech": [
+      "noun",
+      "adverb"
+    ],
+    "definitions": [
+      "the syllable naming the fifth (dominant) note of any musical scale in solmization",
+      "to a very great extent or degree",
+      "in a manner that facilitates",
+      "in such a condition or manner, especially as expressed or implied",
+      "to a certain unspecified extent or degree",
+      "in the same way; also",
+      "in the way indicated; ; ; (`thusly' is a nonstandard variant)",
+      "(usually followed by `that') to an extent or degree as expressed"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the syllable naming the fifth (dominant) note of any musical scale in solmization",
+        "examples": [],
+        "synonyms": [
+          "sol",
+          "soh",
+          "so"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to a very great extent or degree",
+        "examples": [
+          "the idea is so obvious",
+          "never been so happy",
+          "I love you so",
+          "my head aches so!"
+        ],
+        "synonyms": [
+          "so"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in a manner that facilitates",
+        "examples": [
+          "he observed the snakes so he could describe their behavior",
+          "he stooped down so he could pick up his hat"
+        ],
+        "synonyms": [
+          "so"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in such a condition or manner, especially as expressed or implied",
+        "examples": [
+          "They're happy and I hope they will remain so",
+          "so live your life that old age will bring no regrets"
+        ],
+        "synonyms": [
+          "so"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to a certain unspecified extent or degree",
+        "examples": [
+          "I can only go so far with this student",
+          "can do only so much in a day"
+        ],
+        "synonyms": [
+          "so"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in the same way; also",
+        "examples": [
+          "I was offended and so was he",
+          "worked hard and so did she"
+        ],
+        "synonyms": [
+          "so"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in the way indicated; ; ; (`thusly' is a nonstandard variant)",
+        "examples": [
+          "hold the brush so",
+          "set up the pieces thus"
+        ],
+        "synonyms": [
+          "thus",
+          "thusly",
+          "so"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "(usually followed by `that') to an extent or degree as expressed",
+        "examples": [
+          "he was so tired he could hardly stand",
+          "so dirty that it smells"
+        ],
+        "synonyms": [
+          "so"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the syllable naming the fifth (dominant) note of any musical scale in solmization",
+        "examples": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to a very great extent or degree",
+        "examples": [
+          "the idea is so obvious",
+          "never been so happy",
+          "I love you so",
+          "my head aches so!"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in a manner that facilitates",
+        "examples": [
+          "he observed the snakes so he could describe their behavior",
+          "he stooped down so he could pick up his hat"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in such a condition or manner, especially as expressed or implied",
+        "examples": [
+          "They're happy and I hope they will remain so",
+          "so live your life that old age will bring no regrets"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to a certain unspecified extent or degree",
+        "examples": [
+          "I can only go so far with this student",
+          "can do only so much in a day"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in the same way; also",
+        "examples": [
+          "I was offended and so was he",
+          "worked hard and so did she"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in the way indicated; ; ; (`thusly' is a nonstandard variant)",
+        "examples": [
+          "hold the brush so",
+          "set up the pieces thus"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "(usually followed by `that') to an extent or degree as expressed",
+        "examples": [
+          "he was so tired he could hardly stand",
+          "so dirty that it smells"
+        ]
+      }
+    ],
+    "examples": [
+      "the idea is so obvious",
+      "never been so happy",
+      "I love you so",
+      "my head aches so!",
+      "he observed the snakes so he could describe their behavior",
+      "he stooped down so he could pick up his hat",
+      "They're happy and I hope they will remain so",
+      "so live your life that old age will bring no regrets",
+      "I can only go so far with this student",
+      "can do only so much in a day",
+      "I was offended and so was he",
+      "worked hard and so did she",
+      "hold the brush so",
+      "set up the pieces thus",
+      "he was so tired he could hardly stand",
+      "so dirty that it smells"
+    ],
+    "synonyms": [
+      "sol",
+      "soh",
+      "thus",
+      "thusly"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.52
+    }
+  },
+  {
+    "word": "me",
+    "parts_of_speech": [
+      "noun"
+    ],
+    "definitions": [
+      "a state in New England"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a state in New England",
+        "examples": [],
+        "synonyms": [
+          "Maine",
+          "Pine Tree State",
+          "ME"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a state in New England",
+        "examples": []
+      }
+    ],
+    "examples": [],
+    "synonyms": [
+      "Maine",
+      "Pine Tree State"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.48
+    }
+  },
+  {
+    "word": "one",
+    "parts_of_speech": [
+      "noun",
+      "adjective"
+    ],
+    "definitions": [
+      "the smallest whole number or a numeral representing this number",
+      "a single person or thing",
+      "used of a single unit or thing; not two or more",
+      "having the indivisible character of a unit",
+      "of the same kind or quality",
+      "used informally as an intensifier",
+      "indefinite in time or position",
+      "being a single entity made by combining separate components"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the smallest whole number or a numeral representing this number",
+        "examples": [
+          "he has the one but will need a two and three to go with it",
+          "they had lunch at one"
+        ],
+        "synonyms": [
+          "one",
+          "1",
+          "I",
+          "ace",
+          "single",
+          "unity"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a single person or thing",
+        "examples": [
+          "he is the best one",
+          "this is the one I ordered"
+        ],
+        "synonyms": [
+          "one"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "used of a single unit or thing; not two or more",
+        "examples": [
+          "`ane' is Scottish"
+        ],
+        "synonyms": [
+          "one",
+          "1",
+          "i",
+          "ane"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "having the indivisible character of a unit",
+        "examples": [
+          "a unitary action",
+          "spoke with one voice"
+        ],
+        "synonyms": [
+          "one",
+          "unitary"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "of the same kind or quality",
+        "examples": [
+          "two animals of one species"
+        ],
+        "synonyms": [
+          "one"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "used informally as an intensifier",
+        "examples": [
+          "that is one fine dog"
+        ],
+        "synonyms": [
+          "one"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "indefinite in time or position",
+        "examples": [
+          "he will come one day",
+          "one place or another"
+        ],
+        "synonyms": [
+          "one"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "being a single entity made by combining separate components",
+        "examples": [
+          "three chemicals combining into one solution"
+        ],
+        "synonyms": [
+          "one"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the smallest whole number or a numeral representing this number",
+        "examples": [
+          "he has the one but will need a two and three to go with it",
+          "they had lunch at one"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a single person or thing",
+        "examples": [
+          "he is the best one",
+          "this is the one I ordered"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "used of a single unit or thing; not two or more",
+        "examples": [
+          "`ane' is Scottish"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "having the indivisible character of a unit",
+        "examples": [
+          "a unitary action",
+          "spoke with one voice"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "of the same kind or quality",
+        "examples": [
+          "two animals of one species"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "used informally as an intensifier",
+        "examples": [
+          "that is one fine dog"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "indefinite in time or position",
+        "examples": [
+          "he will come one day",
+          "one place or another"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "being a single entity made by combining separate components",
+        "examples": [
+          "three chemicals combining into one solution"
+        ]
+      }
+    ],
+    "examples": [
+      "he has the one but will need a two and three to go with it",
+      "they had lunch at one",
+      "he is the best one",
+      "this is the one I ordered",
+      "`ane' is Scottish",
+      "a unitary action",
+      "spoke with one voice",
+      "two animals of one species",
+      "that is one fine dog",
+      "he will come one day",
+      "one place or another",
+      "three chemicals combining into one solution"
+    ],
+    "synonyms": [
+      "1",
+      "I",
+      "ace",
+      "single",
+      "unity",
+      "ane",
+      "unitary"
+    ],
+    "antonyms": [],
+    "difficulty": {
+      "level": 1,
+      "score": 0,
+      "components": {
+        "frequency": 0,
+        "abstractness": 0,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.47
+    }
+  }
+]
