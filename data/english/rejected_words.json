@@ -1,98 +1,458 @@
 [
   {
     "word": "the",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "to",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "and",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "of",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "in",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "is",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "for",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "that",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "you",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "it",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "on",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "with",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "this",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "was",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "be",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "as",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "are",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "have",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "at",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "he",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "not",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "by",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "but",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "from",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "my",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "or",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "we",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "an",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "your",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "all",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "so",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "his",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "they",
-    "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "me",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   },
   {
     "word": "if",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "one",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "can",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "will",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "about",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "up",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "out",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "what",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "has",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "when",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "more",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "do",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "no",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "were",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "who",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "had",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "their",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "there",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "her",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "which",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "been",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "would",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "she",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "how",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "some",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "also",
     "stage": "wordnet",
-    "reason": "No usable WordNet definition",
+    "reason": "No usable modern content-word sense for lemma: also",
+    "retryable": false
+  },
+  {
+    "word": "them",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "other",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "its",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "our",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "than",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "only",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "after",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "him",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "into",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "two",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "over",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "any",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "could",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "these",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "us",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
+    "retryable": false
+  },
+  {
+    "word": "because",
+    "stage": "function_word",
+    "reason": "Closed-class grammar word",
     "retryable": false
   }
 ]

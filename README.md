@@ -40,6 +40,13 @@ temperature는 일관성을 위해 0으로 고정한다.
 python scripts/build_english_vocabulary.py --limit 20
 ```
 
+품질 확인용 고정 13단어(`apple`, `charge`, `empirical`, `ubiquitous` 등)를
+평가하려면 다음을 실행한다.
+
+```powershell
+python scripts/build_english_vocabulary.py --fixed-test-words --reset
+```
+
 전체 데이터(상위 30,000개 후보에서 최대 10,000개):
 
 ```powershell
@@ -57,6 +64,7 @@ python scripts/build_english_vocabulary.py
 --ollama-url URL        Ollama 서버 주소
 --ai-timeout 300        AI batch 요청 제한 시간(초)
 --ai-context-window 16384  Ollama 문맥 크기
+--fixed-test-words      내장된 13단어 품질 테스트 세트를 평가
 --resume                기존 결과에서 재개(기본 동작)
 --no-resume             출력이 없는 경우에만 새로 시작
 --reset                 기존 두 JSON을 비우고 처음부터 시작
@@ -65,8 +73,10 @@ python scripts/build_english_vocabulary.py
 각 AI batch가 성공할 때마다 두 JSON을 원자적으로 저장한다. 중간 종료 후 같은
 명령을 다시 실행하면 `english_vocabulary.json`에 이미 있는 단어는 건너뛴다.
 AI 연결/응답 오류는 기본 3회 재시도한 뒤 명확히 출력하고, 처리 완료 데이터는
-보존하며 해당 batch를 `retryable: true`로 기록한다. 설정을 고친 뒤 재실행하면
-그 batch부터 다시 처리한다.
+보존한다. AI 호출 전 entry는 `pending_ai`, 재시도 실패 시 `failed_ai`, 검증된
+평가 완료 후에만 `complete`가 된다. 실패한 entry의 AI component와 최종 점수,
+level은 `null`이며 0으로 대신 채우지 않는다. 설정을 고친 뒤 재실행하면 해당
+batch부터 다시 처리한다.
 
 > `--reset`은 기존 생성 결과를 빈 배열로 교체한다. 의도적으로 처음부터 다시
 > 만들 때만 사용한다.
@@ -74,13 +84,19 @@ AI 연결/응답 오류는 기본 3회 재시도한 뒤 명확히 출력하고, 
 ## 출력 데이터
 
 - `data/english/english_vocabulary.json`: 단어, 품사, 정의, 주요 sense, 예문,
-  동의어/반의어, Zipf와 난이도 점수. JSON 배열이다.
+  동의어/반의어, 평가 상태, Zipf와 난이도 점수. JSON 배열이다.
 - `data/english/rejected_words.json`: WordNet 정보가 없거나 AI batch가 실패한
   후보와 단계, 사유, 재시도 가능 여부.
 
 난이도 총점은 Python이 `frequency + abstractness + semantic_complexity +
 form_complexity + register`로 계산한다. 0~3은 Level 1, 4~6은 Level 2,
-7~10은 Level 3이다. AI는 frequency를 평가하지 않는다.
+7~10은 Level 3이다. AI는 frequency를 평가하지 않으며, `complete` entry만
+유효한 최종 난이도를 가진다.
+
+후보 생성 시 관사·대명사·전치사·접속사·조동사·한정사 등의 폐쇄형 기능어를
+제외한다. 활용형은 WordNet 형태 분석으로 표제어에 통합한다. WordNet sense는
+입력 lemma와 대소문자가 정확히 일치하는 현대 영어 content-word sense만 사용해
+원소 기호, 지역/기관 약어, 단위 기호 및 매우 희귀한 의미가 섞이는 것을 줄인다.
 
 ## 테스트
 

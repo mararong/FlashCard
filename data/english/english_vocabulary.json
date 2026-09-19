@@ -1,443 +1,478 @@
 [
   {
-    "word": "in",
+    "word": "just",
     "parts_of_speech": [
-      "noun",
-      "adjective",
-      "adverb"
+      "adverb",
+      "adjective"
     ],
     "definitions": [
-      "a unit of length equal to one twelfth of a foot",
-      "a rare soft silvery metallic element; occurs in small quantities in sphalerite",
-      "a state in midwestern United States",
-      "holding office",
-      "directed or bound inward",
-      "currently fashionable",
-      "to or toward the inside of"
+      "only a moment ago",
+      "absolutely",
+      "used especially of what is legally or ethically right or proper or fitting; - A.Lincoln"
     ],
     "senses": [
       {
-        "part_of_speech": "noun",
-        "definition_en": "a unit of length equal to one twelfth of a foot",
-        "examples": [],
-        "synonyms": [
-          "inch",
-          "in"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a rare soft silvery metallic element; occurs in small quantities in sphalerite",
-        "examples": [],
-        "synonyms": [
-          "indium",
-          "In",
-          "atomic number 49"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a state in midwestern United States",
-        "examples": [],
-        "synonyms": [
-          "Indiana",
-          "Hoosier State",
-          "IN"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "holding office",
+        "part_of_speech": "adverb",
+        "definition_en": "only a moment ago",
         "examples": [
-          "the in party"
+          "he has just arrived",
+          "the sun just now came out"
         ],
         "synonyms": [
-          "in"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "directed or bound inward",
-        "examples": [
-          "took the in bus",
-          "the in basket"
-        ],
-        "synonyms": [
-          "in"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "currently fashionable",
-        "examples": [
-          "the in thing to do",
-          "large shoulder pads are in"
-        ],
-        "synonyms": [
-          "in"
+          "just",
+          "just now"
         ],
         "antonyms": []
       },
       {
         "part_of_speech": "adverb",
-        "definition_en": "to or toward the inside of",
+        "definition_en": "absolutely",
         "examples": [
-          "come in",
-          "smash in the door"
+          "I just can't take it anymore",
+          "he was just grand as Romeo",
+          "it's simply beautiful!"
         ],
         "synonyms": [
-          "in",
-          "inwards",
-          "inward"
+          "just",
+          "simply"
         ],
         "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a unit of length equal to one twelfth of a foot",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a rare soft silvery metallic element; occurs in small quantities in sphalerite",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a state in midwestern United States",
-        "examples": []
       },
       {
         "part_of_speech": "adjective",
-        "definition_en": "holding office",
+        "definition_en": "used especially of what is legally or ethically right or proper or fitting; - A.Lincoln",
         "examples": [
-          "the in party"
-        ]
-      },
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "directed or bound inward",
-        "examples": [
-          "took the in bus",
-          "the in basket"
-        ]
-      },
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "currently fashionable",
-        "examples": [
-          "the in thing to do",
-          "large shoulder pads are in"
-        ]
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "to or toward the inside of",
-        "examples": [
-          "come in",
-          "smash in the door"
-        ]
-      }
-    ],
-    "examples": [
-      "the in party",
-      "took the in bus",
-      "the in basket",
-      "the in thing to do",
-      "large shoulder pads are in",
-      "come in",
-      "smash in the door"
-    ],
-    "synonyms": [
-      "inch",
-      "indium",
-      "atomic number 49",
-      "Indiana",
-      "Hoosier State",
-      "inwards",
-      "inward"
-    ],
-    "antonyms": [],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 7.27
-    }
-  },
-  {
-    "word": "is",
-    "parts_of_speech": [
-      "verb"
-    ],
-    "definitions": [
-      "have the quality of being; (copula, used with an adjective or a predicate noun)",
-      "be identical to; be someone or something",
-      "occupy a certain position or area; be somewhere",
-      "have an existence, be extant",
-      "happen, occur, take place",
-      "be identical or equivalent to",
-      "form or compose",
-      "work in a specific place, with a specific subject, or in a specific function"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
-        "examples": [
-          "John is rich",
-          "This is not a good answer"
+          "a just and lasting peace",
+          "a kind and just man",
+          "a just reward",
+          "his just inheritance"
         ],
         "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical to; be someone or something",
-        "examples": [
-          "The president of the company is John Smith",
-          "This is my house"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "occupy a certain position or area; be somewhere",
-        "examples": [
-          "Where is my umbrella?",
-          "The toolshed is in the back",
-          "What is behind this behavior?"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have an existence, be extant",
-        "examples": [
-          "Is there a God?"
-        ],
-        "synonyms": [
-          "exist",
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "happen, occur, take place",
-        "examples": [
-          "I lost my wallet; this was during the visit to my parents' house",
-          "There were two hundred people at his funeral",
-          "There was a lot of noise in the kitchen"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical or equivalent to",
-        "examples": [
-          "One dollar equals 1,000 rubles these days!"
-        ],
-        "synonyms": [
-          "equal",
-          "be"
+          "just"
         ],
         "antonyms": [
-          "differ"
+          "unjust"
         ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "form or compose",
-        "examples": [
-          "This money is my only income",
-          "The stone wall was the backdrop for the performance",
-          "These constitute my entire belonging",
-          "The children made up the chorus",
-          "This sum represents my entire income for a year",
-          "These few men comprise his entire army"
-        ],
-        "synonyms": [
-          "constitute",
-          "represent",
-          "make up",
-          "comprise",
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "work in a specific place, with a specific subject, or in a specific function",
-        "examples": [
-          "He is a herpetologist",
-          "She is our resident philosopher"
-        ],
-        "synonyms": [
-          "be",
-          "follow"
-        ],
-        "antonyms": []
       }
     ],
     "meanings": [
       {
-        "part_of_speech": "verb",
-        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+        "part_of_speech": "adverb",
+        "definition_en": "only a moment ago",
         "examples": [
-          "John is rich",
-          "This is not a good answer"
+          "he has just arrived",
+          "the sun just now came out"
         ]
       },
       {
-        "part_of_speech": "verb",
-        "definition_en": "be identical to; be someone or something",
+        "part_of_speech": "adverb",
+        "definition_en": "absolutely",
         "examples": [
-          "The president of the company is John Smith",
-          "This is my house"
+          "I just can't take it anymore",
+          "he was just grand as Romeo",
+          "it's simply beautiful!"
         ]
       },
       {
-        "part_of_speech": "verb",
-        "definition_en": "occupy a certain position or area; be somewhere",
+        "part_of_speech": "adjective",
+        "definition_en": "used especially of what is legally or ethically right or proper or fitting; - A.Lincoln",
         "examples": [
-          "Where is my umbrella?",
-          "The toolshed is in the back",
-          "What is behind this behavior?"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have an existence, be extant",
-        "examples": [
-          "Is there a God?"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "happen, occur, take place",
-        "examples": [
-          "I lost my wallet; this was during the visit to my parents' house",
-          "There were two hundred people at his funeral",
-          "There was a lot of noise in the kitchen"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical or equivalent to",
-        "examples": [
-          "One dollar equals 1,000 rubles these days!"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "form or compose",
-        "examples": [
-          "This money is my only income",
-          "The stone wall was the backdrop for the performance",
-          "These constitute my entire belonging",
-          "The children made up the chorus",
-          "This sum represents my entire income for a year",
-          "These few men comprise his entire army"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "work in a specific place, with a specific subject, or in a specific function",
-        "examples": [
-          "He is a herpetologist",
-          "She is our resident philosopher"
+          "a just and lasting peace",
+          "a kind and just man",
+          "a just reward",
+          "his just inheritance"
         ]
       }
     ],
     "examples": [
-      "John is rich",
-      "This is not a good answer",
-      "The president of the company is John Smith",
-      "This is my house",
-      "Where is my umbrella?",
-      "The toolshed is in the back",
-      "What is behind this behavior?",
-      "Is there a God?",
-      "I lost my wallet; this was during the visit to my parents' house",
-      "There were two hundred people at his funeral",
-      "There was a lot of noise in the kitchen",
-      "One dollar equals 1,000 rubles these days!",
-      "This money is my only income",
-      "The stone wall was the backdrop for the performance",
-      "These constitute my entire belonging",
-      "The children made up the chorus",
-      "This sum represents my entire income for a year",
-      "These few men comprise his entire army",
-      "He is a herpetologist",
-      "She is our resident philosopher"
+      "he has just arrived",
+      "the sun just now came out",
+      "I just can't take it anymore",
+      "he was just grand as Romeo",
+      "it's simply beautiful!",
+      "a just and lasting peace",
+      "a kind and just man",
+      "a just reward",
+      "his just inheritance"
     ],
     "synonyms": [
-      "be",
-      "exist",
-      "equal",
-      "constitute",
-      "represent",
-      "make up",
-      "comprise",
-      "follow"
+      "just now",
+      "simply"
     ],
     "antonyms": [
-      "differ"
+      "unjust"
     ],
+    "evaluation_status": "complete",
     "difficulty": {
       "level": 1,
-      "score": 0,
+      "score": 2,
       "components": {
         "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
         "form_complexity": 0,
         "register": 0
       },
-      "zipf": 7.07
-    }
+      "zipf": 6.43
+    },
+    "evaluation_model": "qwen2.5:7b"
   },
   {
-    "word": "it",
+    "word": "like",
     "parts_of_speech": [
+      "verb",
+      "adjective",
       "noun"
     ],
     "definitions": [
-      "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+      "find enjoyable or agreeable",
+      "resembling or similar; having the same or some of the same characteristics; often used in combination",
+      "be fond of",
+      "feel about or towards; consider, evaluate, or regard",
+      "want to have",
+      "equal in amount or value",
+      "a similar kind; ,",
+      "a kind of person"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "find enjoyable or agreeable",
+        "examples": [
+          "I like jogging",
+          "She likes to read Russian novels"
+        ],
+        "synonyms": [
+          "like"
+        ],
+        "antonyms": [
+          "dislike"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "resembling or similar; having the same or some of the same characteristics; often used in combination",
+        "examples": [
+          "suits of like design",
+          "a limited circle of like minds",
+          "members of the cat family have like dispositions",
+          "as like as two peas in a pod",
+          "doglike devotion",
+          "a dreamlike quality"
+        ],
+        "synonyms": [
+          "like",
+          "similar"
+        ],
+        "antonyms": [
+          "unlike"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be fond of",
+        "examples": [
+          "I like my nephews"
+        ],
+        "synonyms": [
+          "like"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "feel about or towards; consider, evaluate, or regard",
+        "examples": [
+          "How did you like the President's speech last night?"
+        ],
+        "synonyms": [
+          "like"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "want to have",
+        "examples": [
+          "I'd like a beer now!"
+        ],
+        "synonyms": [
+          "like"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "equal in amount or value",
+        "examples": [
+          "like amounts",
+          "equivalent amounts",
+          "the same amount",
+          "gave one six blows and the other a like number",
+          "the same number"
+        ],
+        "synonyms": [
+          "like",
+          "same"
+        ],
+        "antonyms": [
+          "unlike"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a similar kind; ,",
+        "examples": [
+          "dogs, foxes, and the like",
+          "we don't want the likes of you around here"
+        ],
+        "synonyms": [
+          "like",
+          "the like",
+          "the likes of"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a kind of person",
+        "examples": [
+          "We'll not see his like again",
+          "I can't tolerate people of his ilk"
+        ],
+        "synonyms": [
+          "like",
+          "ilk"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "find enjoyable or agreeable",
+        "examples": [
+          "I like jogging",
+          "She likes to read Russian novels"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "resembling or similar; having the same or some of the same characteristics; often used in combination",
+        "examples": [
+          "suits of like design",
+          "a limited circle of like minds",
+          "members of the cat family have like dispositions",
+          "as like as two peas in a pod",
+          "doglike devotion",
+          "a dreamlike quality"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be fond of",
+        "examples": [
+          "I like my nephews"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "feel about or towards; consider, evaluate, or regard",
+        "examples": [
+          "How did you like the President's speech last night?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "want to have",
+        "examples": [
+          "I'd like a beer now!"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "equal in amount or value",
+        "examples": [
+          "like amounts",
+          "equivalent amounts",
+          "the same amount",
+          "gave one six blows and the other a like number",
+          "the same number"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a similar kind; ,",
+        "examples": [
+          "dogs, foxes, and the like",
+          "we don't want the likes of you around here"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a kind of person",
+        "examples": [
+          "We'll not see his like again",
+          "I can't tolerate people of his ilk"
+        ]
+      }
+    ],
+    "examples": [
+      "I like jogging",
+      "She likes to read Russian novels",
+      "suits of like design",
+      "a limited circle of like minds",
+      "members of the cat family have like dispositions",
+      "as like as two peas in a pod",
+      "doglike devotion",
+      "a dreamlike quality",
+      "I like my nephews",
+      "How did you like the President's speech last night?",
+      "I'd like a beer now!",
+      "like amounts",
+      "equivalent amounts",
+      "the same amount",
+      "gave one six blows and the other a like number",
+      "the same number",
+      "dogs, foxes, and the like",
+      "we don't want the likes of you around here",
+      "We'll not see his like again",
+      "I can't tolerate people of his ilk"
+    ],
+    "synonyms": [
+      "similar",
+      "same",
+      "the like",
+      "the likes of",
+      "ilk"
+    ],
+    "antonyms": [
+      "dislike",
+      "unlike"
+    ],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 3,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 2,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.41
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "time",
+    "parts_of_speech": [
+      "noun",
+      "verb"
+    ],
+    "definitions": [
+      "an instance or single occasion for some event",
+      "a period of time considered as a resource under your control and sufficient to accomplish something",
+      "an indefinite period (usually marked by specific attributes or activities)",
+      "a suitable moment",
+      "the continuum of experience in which events pass from the future through the present to the past",
+      "a person's experience on a particular occasion",
+      "assign a time for an activity or event",
+      "set the speed, duration, or execution of"
     ],
     "senses": [
       {
         "part_of_speech": "noun",
-        "definition_en": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+        "definition_en": "an instance or single occasion for some event",
+        "examples": [
+          "this time he succeeded",
+          "he called four times",
+          "he could do ten at a clip"
+        ],
+        "synonyms": [
+          "time",
+          "clip"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a period of time considered as a resource under your control and sufficient to accomplish something",
+        "examples": [
+          "take time to smell the roses",
+          "I didn't have time to finish",
+          "it took more than half my time"
+        ],
+        "synonyms": [
+          "time"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "an indefinite period (usually marked by specific attributes or activities)",
+        "examples": [
+          "he waited a long time",
+          "the time of year for planting",
+          "he was a great actor in his time"
+        ],
+        "synonyms": [
+          "time"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a suitable moment",
+        "examples": [
+          "it is time to go"
+        ],
+        "synonyms": [
+          "time"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the continuum of experience in which events pass from the future through the present to the past",
         "examples": [],
         "synonyms": [
-          "information technology",
-          "IT"
+          "time"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a person's experience on a particular occasion",
+        "examples": [
+          "he had a time holding back the tears",
+          "they had a good time together"
+        ],
+        "synonyms": [
+          "time"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "assign a time for an activity or event",
+        "examples": [
+          "The candidate carefully timed his appearance at the disaster scene"
+        ],
+        "synonyms": [
+          "time"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "set the speed, duration, or execution of",
+        "examples": [
+          "we time the process to manufacture our cars very precisely"
+        ],
+        "synonyms": [
+          "time"
         ],
         "antonyms": []
       }
@@ -445,1175 +480,129 @@
     "meanings": [
       {
         "part_of_speech": "noun",
-        "definition_en": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+        "definition_en": "an instance or single occasion for some event",
+        "examples": [
+          "this time he succeeded",
+          "he called four times",
+          "he could do ten at a clip"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a period of time considered as a resource under your control and sufficient to accomplish something",
+        "examples": [
+          "take time to smell the roses",
+          "I didn't have time to finish",
+          "it took more than half my time"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "an indefinite period (usually marked by specific attributes or activities)",
+        "examples": [
+          "he waited a long time",
+          "the time of year for planting",
+          "he was a great actor in his time"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a suitable moment",
+        "examples": [
+          "it is time to go"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the continuum of experience in which events pass from the future through the present to the past",
         "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a person's experience on a particular occasion",
+        "examples": [
+          "he had a time holding back the tears",
+          "they had a good time together"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "assign a time for an activity or event",
+        "examples": [
+          "The candidate carefully timed his appearance at the disaster scene"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "set the speed, duration, or execution of",
+        "examples": [
+          "we time the process to manufacture our cars very precisely"
+        ]
       }
     ],
-    "examples": [],
+    "examples": [
+      "this time he succeeded",
+      "he called four times",
+      "he could do ten at a clip",
+      "take time to smell the roses",
+      "I didn't have time to finish",
+      "it took more than half my time",
+      "he waited a long time",
+      "the time of year for planting",
+      "he was a great actor in his time",
+      "it is time to go",
+      "he had a time holding back the tears",
+      "they had a good time together",
+      "The candidate carefully timed his appearance at the disaster scene",
+      "we time the process to manufacture our cars very precisely"
+    ],
     "synonyms": [
-      "information technology"
+      "clip"
     ],
     "antonyms": [],
+    "evaluation_status": "complete",
     "difficulty": {
       "level": 1,
-      "score": 0,
+      "score": 2,
       "components": {
         "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
         "form_complexity": 0,
         "register": 0
       },
-      "zipf": 6.95
-    }
+      "zipf": 6.29
+    },
+    "evaluation_model": "qwen2.5:7b"
   },
   {
-    "word": "on",
+    "word": "get",
     "parts_of_speech": [
-      "adjective",
-      "adverb"
-    ],
-    "definitions": [
-      "in operation or operational",
-      "(of events) planned or scheduled",
-      "with a forward motion",
-      "indicates continuity or persistence or concentration",
-      "in a state required for something to function or be effective"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "in operation or operational",
-        "examples": [
-          "left the oven on",
-          "the switch is in the on position"
-        ],
-        "synonyms": [
-          "on"
-        ],
-        "antonyms": [
-          "off"
-        ]
-      },
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "(of events) planned or scheduled",
-        "examples": [
-          "the picnic is on, rain or shine",
-          "we have nothing on for Friday night"
-        ],
-        "synonyms": [
-          "on"
-        ],
-        "antonyms": [
-          "off"
-        ]
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "with a forward motion",
-        "examples": [
-          "we drove along admiring the view",
-          "the horse trotted along at a steady pace",
-          "the circus traveled on to the next city",
-          "move along",
-          "march on"
-        ],
-        "synonyms": [
-          "along",
-          "on"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "indicates continuity or persistence or concentration",
-        "examples": [
-          "his spirit lives on",
-          "shall I read on?"
-        ],
-        "synonyms": [
-          "on"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "in a state required for something to function or be effective",
-        "examples": [
-          "turn the lights on",
-          "get a load on"
-        ],
-        "synonyms": [
-          "on"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "in operation or operational",
-        "examples": [
-          "left the oven on",
-          "the switch is in the on position"
-        ]
-      },
-      {
-        "part_of_speech": "adjective",
-        "definition_en": "(of events) planned or scheduled",
-        "examples": [
-          "the picnic is on, rain or shine",
-          "we have nothing on for Friday night"
-        ]
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "with a forward motion",
-        "examples": [
-          "we drove along admiring the view",
-          "the horse trotted along at a steady pace",
-          "the circus traveled on to the next city",
-          "move along",
-          "march on"
-        ]
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "indicates continuity or persistence or concentration",
-        "examples": [
-          "his spirit lives on",
-          "shall I read on?"
-        ]
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "in a state required for something to function or be effective",
-        "examples": [
-          "turn the lights on",
-          "get a load on"
-        ]
-      }
-    ],
-    "examples": [
-      "left the oven on",
-      "the switch is in the on position",
-      "the picnic is on, rain or shine",
-      "we have nothing on for Friday night",
-      "we drove along admiring the view",
-      "the horse trotted along at a steady pace",
-      "the circus traveled on to the next city",
-      "move along",
-      "march on",
-      "his spirit lives on",
-      "shall I read on?",
-      "turn the lights on",
-      "get a load on"
-    ],
-    "synonyms": [
-      "along"
-    ],
-    "antonyms": [
-      "off"
-    ],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.91
-    }
-  },
-  {
-    "word": "was",
-    "parts_of_speech": [
-      "noun",
-      "verb"
-    ],
-    "definitions": [
-      "a state in northwestern United States on the Pacific",
-      "have the quality of being; (copula, used with an adjective or a predicate noun)",
-      "be identical to; be someone or something",
-      "occupy a certain position or area; be somewhere",
-      "have an existence, be extant",
-      "happen, occur, take place",
-      "be identical or equivalent to",
-      "form or compose"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a state in northwestern United States on the Pacific",
-        "examples": [],
-        "synonyms": [
-          "Washington",
-          "Evergreen State",
-          "WA"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
-        "examples": [
-          "John is rich",
-          "This is not a good answer"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical to; be someone or something",
-        "examples": [
-          "The president of the company is John Smith",
-          "This is my house"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "occupy a certain position or area; be somewhere",
-        "examples": [
-          "Where is my umbrella?",
-          "The toolshed is in the back",
-          "What is behind this behavior?"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have an existence, be extant",
-        "examples": [
-          "Is there a God?"
-        ],
-        "synonyms": [
-          "exist",
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "happen, occur, take place",
-        "examples": [
-          "I lost my wallet; this was during the visit to my parents' house",
-          "There were two hundred people at his funeral",
-          "There was a lot of noise in the kitchen"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical or equivalent to",
-        "examples": [
-          "One dollar equals 1,000 rubles these days!"
-        ],
-        "synonyms": [
-          "equal",
-          "be"
-        ],
-        "antonyms": [
-          "differ"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "form or compose",
-        "examples": [
-          "This money is my only income",
-          "The stone wall was the backdrop for the performance",
-          "These constitute my entire belonging",
-          "The children made up the chorus",
-          "This sum represents my entire income for a year",
-          "These few men comprise his entire army"
-        ],
-        "synonyms": [
-          "constitute",
-          "represent",
-          "make up",
-          "comprise",
-          "be"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a state in northwestern United States on the Pacific",
-        "examples": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
-        "examples": [
-          "John is rich",
-          "This is not a good answer"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical to; be someone or something",
-        "examples": [
-          "The president of the company is John Smith",
-          "This is my house"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "occupy a certain position or area; be somewhere",
-        "examples": [
-          "Where is my umbrella?",
-          "The toolshed is in the back",
-          "What is behind this behavior?"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have an existence, be extant",
-        "examples": [
-          "Is there a God?"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "happen, occur, take place",
-        "examples": [
-          "I lost my wallet; this was during the visit to my parents' house",
-          "There were two hundred people at his funeral",
-          "There was a lot of noise in the kitchen"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical or equivalent to",
-        "examples": [
-          "One dollar equals 1,000 rubles these days!"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "form or compose",
-        "examples": [
-          "This money is my only income",
-          "The stone wall was the backdrop for the performance",
-          "These constitute my entire belonging",
-          "The children made up the chorus",
-          "This sum represents my entire income for a year",
-          "These few men comprise his entire army"
-        ]
-      }
-    ],
-    "examples": [
-      "John is rich",
-      "This is not a good answer",
-      "The president of the company is John Smith",
-      "This is my house",
-      "Where is my umbrella?",
-      "The toolshed is in the back",
-      "What is behind this behavior?",
-      "Is there a God?",
-      "I lost my wallet; this was during the visit to my parents' house",
-      "There were two hundred people at his funeral",
-      "There was a lot of noise in the kitchen",
-      "One dollar equals 1,000 rubles these days!",
-      "This money is my only income",
-      "The stone wall was the backdrop for the performance",
-      "These constitute my entire belonging",
-      "The children made up the chorus",
-      "This sum represents my entire income for a year",
-      "These few men comprise his entire army"
-    ],
-    "synonyms": [
-      "Washington",
-      "Evergreen State",
-      "WA",
-      "be",
-      "exist",
-      "equal",
-      "constitute",
-      "represent",
-      "make up",
-      "comprise"
-    ],
-    "antonyms": [
-      "differ"
-    ],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.82
-    }
-  },
-  {
-    "word": "be",
-    "parts_of_speech": [
-      "noun",
-      "verb"
-    ],
-    "definitions": [
-      "a light strong brittle grey toxic bivalent metallic element",
-      "have the quality of being; (copula, used with an adjective or a predicate noun)",
-      "be identical to; be someone or something",
-      "occupy a certain position or area; be somewhere",
-      "have an existence, be extant",
-      "happen, occur, take place",
-      "be identical or equivalent to",
-      "form or compose"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a light strong brittle grey toxic bivalent metallic element",
-        "examples": [],
-        "synonyms": [
-          "beryllium",
-          "Be",
-          "glucinium",
-          "atomic number 4"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
-        "examples": [
-          "John is rich",
-          "This is not a good answer"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical to; be someone or something",
-        "examples": [
-          "The president of the company is John Smith",
-          "This is my house"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "occupy a certain position or area; be somewhere",
-        "examples": [
-          "Where is my umbrella?",
-          "The toolshed is in the back",
-          "What is behind this behavior?"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have an existence, be extant",
-        "examples": [
-          "Is there a God?"
-        ],
-        "synonyms": [
-          "exist",
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "happen, occur, take place",
-        "examples": [
-          "I lost my wallet; this was during the visit to my parents' house",
-          "There were two hundred people at his funeral",
-          "There was a lot of noise in the kitchen"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical or equivalent to",
-        "examples": [
-          "One dollar equals 1,000 rubles these days!"
-        ],
-        "synonyms": [
-          "equal",
-          "be"
-        ],
-        "antonyms": [
-          "differ"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "form or compose",
-        "examples": [
-          "This money is my only income",
-          "The stone wall was the backdrop for the performance",
-          "These constitute my entire belonging",
-          "The children made up the chorus",
-          "This sum represents my entire income for a year",
-          "These few men comprise his entire army"
-        ],
-        "synonyms": [
-          "constitute",
-          "represent",
-          "make up",
-          "comprise",
-          "be"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a light strong brittle grey toxic bivalent metallic element",
-        "examples": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
-        "examples": [
-          "John is rich",
-          "This is not a good answer"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical to; be someone or something",
-        "examples": [
-          "The president of the company is John Smith",
-          "This is my house"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "occupy a certain position or area; be somewhere",
-        "examples": [
-          "Where is my umbrella?",
-          "The toolshed is in the back",
-          "What is behind this behavior?"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have an existence, be extant",
-        "examples": [
-          "Is there a God?"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "happen, occur, take place",
-        "examples": [
-          "I lost my wallet; this was during the visit to my parents' house",
-          "There were two hundred people at his funeral",
-          "There was a lot of noise in the kitchen"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical or equivalent to",
-        "examples": [
-          "One dollar equals 1,000 rubles these days!"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "form or compose",
-        "examples": [
-          "This money is my only income",
-          "The stone wall was the backdrop for the performance",
-          "These constitute my entire belonging",
-          "The children made up the chorus",
-          "This sum represents my entire income for a year",
-          "These few men comprise his entire army"
-        ]
-      }
-    ],
-    "examples": [
-      "John is rich",
-      "This is not a good answer",
-      "The president of the company is John Smith",
-      "This is my house",
-      "Where is my umbrella?",
-      "The toolshed is in the back",
-      "What is behind this behavior?",
-      "Is there a God?",
-      "I lost my wallet; this was during the visit to my parents' house",
-      "There were two hundred people at his funeral",
-      "There was a lot of noise in the kitchen",
-      "One dollar equals 1,000 rubles these days!",
-      "This money is my only income",
-      "The stone wall was the backdrop for the performance",
-      "These constitute my entire belonging",
-      "The children made up the chorus",
-      "This sum represents my entire income for a year",
-      "These few men comprise his entire army"
-    ],
-    "synonyms": [
-      "beryllium",
-      "glucinium",
-      "atomic number 4",
-      "exist",
-      "equal",
-      "constitute",
-      "represent",
-      "make up",
-      "comprise"
-    ],
-    "antonyms": [
-      "differ"
-    ],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.79
-    }
-  },
-  {
-    "word": "as",
-    "parts_of_speech": [
+      "verb",
       "noun"
     ],
     "definitions": [
-      "a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar",
-      "a United States territory on the eastern part of the island of Samoa",
-      "a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation",
-      "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes",
-      "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)",
-      "(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA",
-      "the basic unit of electric current adopted under the Systeme International d'Unites",
-      "the 1st letter of the Roman alphabet"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar",
-        "examples": [],
-        "synonyms": [
-          "arsenic",
-          "As",
-          "atomic number 33"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a United States territory on the eastern part of the island of Samoa",
-        "examples": [],
-        "synonyms": [
-          "American Samoa",
-          "Eastern Samoa",
-          "AS"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation",
-        "examples": [],
-        "synonyms": [
-          "angstrom",
-          "angstrom unit",
-          "A"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes",
-        "examples": [],
-        "synonyms": [
-          "vitamin A",
-          "antiophthalmic factor",
-          "axerophthol",
-          "A"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)",
-        "examples": [],
-        "synonyms": [
-          "deoxyadenosine monophosphate",
-          "A"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA",
-        "examples": [],
-        "synonyms": [
-          "adenine",
-          "A"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "the basic unit of electric current adopted under the Systeme International d'Unites",
-        "examples": [
-          "a typical household circuit carries 15 to 50 amps"
-        ],
-        "synonyms": [
-          "ampere",
-          "amp",
-          "A"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "the 1st letter of the Roman alphabet",
-        "examples": [],
-        "synonyms": [
-          "A",
-          "a"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a United States territory on the eastern part of the island of Samoa",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "the basic unit of electric current adopted under the Systeme International d'Unites",
-        "examples": [
-          "a typical household circuit carries 15 to 50 amps"
-        ]
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "the 1st letter of the Roman alphabet",
-        "examples": []
-      }
-    ],
-    "examples": [
-      "a typical household circuit carries 15 to 50 amps"
-    ],
-    "synonyms": [
-      "arsenic",
-      "atomic number 33",
-      "American Samoa",
-      "Eastern Samoa",
-      "angstrom",
-      "angstrom unit",
-      "A",
-      "vitamin A",
-      "antiophthalmic factor",
-      "axerophthol",
-      "deoxyadenosine monophosphate",
-      "adenine",
-      "ampere",
-      "amp"
-    ],
-    "antonyms": [],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.77
-    }
-  },
-  {
-    "word": "are",
-    "parts_of_speech": [
-      "noun",
-      "verb"
-    ],
-    "definitions": [
-      "a unit of surface area equal to 100 square meters",
-      "have the quality of being; (copula, used with an adjective or a predicate noun)",
-      "be identical to; be someone or something",
-      "occupy a certain position or area; be somewhere",
-      "have an existence, be extant",
-      "happen, occur, take place",
-      "be identical or equivalent to",
-      "form or compose"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a unit of surface area equal to 100 square meters",
-        "examples": [],
-        "synonyms": [
-          "are",
-          "ar"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
-        "examples": [
-          "John is rich",
-          "This is not a good answer"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical to; be someone or something",
-        "examples": [
-          "The president of the company is John Smith",
-          "This is my house"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "occupy a certain position or area; be somewhere",
-        "examples": [
-          "Where is my umbrella?",
-          "The toolshed is in the back",
-          "What is behind this behavior?"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have an existence, be extant",
-        "examples": [
-          "Is there a God?"
-        ],
-        "synonyms": [
-          "exist",
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "happen, occur, take place",
-        "examples": [
-          "I lost my wallet; this was during the visit to my parents' house",
-          "There were two hundred people at his funeral",
-          "There was a lot of noise in the kitchen"
-        ],
-        "synonyms": [
-          "be"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical or equivalent to",
-        "examples": [
-          "One dollar equals 1,000 rubles these days!"
-        ],
-        "synonyms": [
-          "equal",
-          "be"
-        ],
-        "antonyms": [
-          "differ"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "form or compose",
-        "examples": [
-          "This money is my only income",
-          "The stone wall was the backdrop for the performance",
-          "These constitute my entire belonging",
-          "The children made up the chorus",
-          "This sum represents my entire income for a year",
-          "These few men comprise his entire army"
-        ],
-        "synonyms": [
-          "constitute",
-          "represent",
-          "make up",
-          "comprise",
-          "be"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a unit of surface area equal to 100 square meters",
-        "examples": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have the quality of being; (copula, used with an adjective or a predicate noun)",
-        "examples": [
-          "John is rich",
-          "This is not a good answer"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical to; be someone or something",
-        "examples": [
-          "The president of the company is John Smith",
-          "This is my house"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "occupy a certain position or area; be somewhere",
-        "examples": [
-          "Where is my umbrella?",
-          "The toolshed is in the back",
-          "What is behind this behavior?"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have an existence, be extant",
-        "examples": [
-          "Is there a God?"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "happen, occur, take place",
-        "examples": [
-          "I lost my wallet; this was during the visit to my parents' house",
-          "There were two hundred people at his funeral",
-          "There was a lot of noise in the kitchen"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "be identical or equivalent to",
-        "examples": [
-          "One dollar equals 1,000 rubles these days!"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "form or compose",
-        "examples": [
-          "This money is my only income",
-          "The stone wall was the backdrop for the performance",
-          "These constitute my entire belonging",
-          "The children made up the chorus",
-          "This sum represents my entire income for a year",
-          "These few men comprise his entire army"
-        ]
-      }
-    ],
-    "examples": [
-      "John is rich",
-      "This is not a good answer",
-      "The president of the company is John Smith",
-      "This is my house",
-      "Where is my umbrella?",
-      "The toolshed is in the back",
-      "What is behind this behavior?",
-      "Is there a God?",
-      "I lost my wallet; this was during the visit to my parents' house",
-      "There were two hundred people at his funeral",
-      "There was a lot of noise in the kitchen",
-      "One dollar equals 1,000 rubles these days!",
-      "This money is my only income",
-      "The stone wall was the backdrop for the performance",
-      "These constitute my entire belonging",
-      "The children made up the chorus",
-      "This sum represents my entire income for a year",
-      "These few men comprise his entire army"
-    ],
-    "synonyms": [
-      "ar",
-      "be",
-      "exist",
-      "equal",
-      "constitute",
-      "represent",
-      "make up",
-      "comprise"
-    ],
-    "antonyms": [
-      "differ"
-    ],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.74
-    }
-  },
-  {
-    "word": "have",
-    "parts_of_speech": [
-      "noun",
-      "verb"
-    ],
-    "definitions": [
-      "a person who possesses great material wealth",
-      "have or possess, either in a concrete or an abstract sense",
-      "have as a feature",
-      "go through (mental or physical states or experiences)",
-      "have ownership or possession of",
+      "come into the possession of something concrete or abstract",
       "cause to move; cause to be in a certain position or condition",
-      "serve oneself to, or consume regularly",
-      "have a personal or business relationship with someone"
+      "succeed in catching or seizing, especially after a chase",
+      "communicate with a place or person; establish communication with, as if by telephone",
+      "reach with a blow or hit in a particular spot",
+      "reach by calculation",
+      "a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent"
     ],
     "senses": [
       {
-        "part_of_speech": "noun",
-        "definition_en": "a person who possesses great material wealth",
-        "examples": [],
-        "synonyms": [
-          "rich person",
-          "wealthy person",
-          "have"
-        ],
-        "antonyms": []
-      },
-      {
         "part_of_speech": "verb",
-        "definition_en": "have or possess, either in a concrete or an abstract sense",
+        "definition_en": "come into the possession of something concrete or abstract",
         "examples": [
-          "She has $1,000 in the bank",
-          "He has got two beautiful daughters",
-          "She holds a Master's degree from Harvard"
+          "She got a lot of paintings from her uncle",
+          "They acquired a new pet",
+          "Get your results the next day",
+          "Get permission to take a few days off from work"
         ],
         "synonyms": [
-          "have",
-          "have got",
-          "hold"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have as a feature",
-        "examples": [
-          "This restaurant features the most famous chefs in France"
-        ],
-        "synonyms": [
-          "have",
-          "feature"
-        ],
-        "antonyms": [
-          "lack"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "go through (mental or physical states or experiences)",
-        "examples": [
-          "get an idea",
-          "experience vertigo",
-          "get nauseous",
-          "receive injuries",
-          "have a feeling"
-        ],
-        "synonyms": [
-          "experience",
-          "receive",
-          "have",
-          "get"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have ownership or possession of",
-        "examples": [
-          "He owns three houses in Florida",
-          "How many cars does she have?"
-        ],
-        "synonyms": [
-          "own",
-          "have",
-          "possess"
+          "get",
+          "acquire"
         ],
         "antonyms": []
       },
@@ -1634,75 +623,74 @@
       },
       {
         "part_of_speech": "verb",
-        "definition_en": "serve oneself to, or consume regularly",
+        "definition_en": "succeed in catching or seizing, especially after a chase",
         "examples": [
-          "Have another bowl of chicken soup!",
-          "I don't take sugar in my coffee"
+          "We finally got the suspect",
+          "Did you catch the thief?"
         ],
         "synonyms": [
-          "consume",
-          "ingest",
-          "take in",
-          "take",
-          "have"
+          "get",
+          "catch",
+          "capture"
         ],
-        "antonyms": [
-          "abstain"
-        ]
+        "antonyms": []
       },
       {
         "part_of_speech": "verb",
-        "definition_en": "have a personal or business relationship with someone",
+        "definition_en": "communicate with a place or person; establish communication with, as if by telephone",
         "examples": [
-          "have a postdoc",
-          "have an assistant",
-          "have a lover"
+          "Bill called this number and he got Mary",
+          "The operator couldn't get Kobe because of the earthquake"
         ],
         "synonyms": [
-          "have"
+          "get"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "reach with a blow or hit in a particular spot",
+        "examples": [
+          "the rock caught her in the back of the head",
+          "The blow got him in the back",
+          "The punch caught him in the stomach"
+        ],
+        "synonyms": [
+          "get",
+          "catch"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "reach by calculation",
+        "examples": [
+          "What do you get when you add up these numbers?"
+        ],
+        "synonyms": [
+          "get"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent",
+        "examples": [],
+        "synonyms": [
+          "get"
         ],
         "antonyms": []
       }
     ],
     "meanings": [
       {
-        "part_of_speech": "noun",
-        "definition_en": "a person who possesses great material wealth",
-        "examples": []
-      },
-      {
         "part_of_speech": "verb",
-        "definition_en": "have or possess, either in a concrete or an abstract sense",
+        "definition_en": "come into the possession of something concrete or abstract",
         "examples": [
-          "She has $1,000 in the bank",
-          "He has got two beautiful daughters",
-          "She holds a Master's degree from Harvard"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have as a feature",
-        "examples": [
-          "This restaurant features the most famous chefs in France"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "go through (mental or physical states or experiences)",
-        "examples": [
-          "get an idea",
-          "experience vertigo",
-          "get nauseous",
-          "receive injuries",
-          "have a feeling"
-        ]
-      },
-      {
-        "part_of_speech": "verb",
-        "definition_en": "have ownership or possession of",
-        "examples": [
-          "He owns three houses in Florida",
-          "How many cars does she have?"
+          "She got a lot of paintings from her uncle",
+          "They acquired a new pet",
+          "Get your results the next day",
+          "Get permission to take a few days off from work"
         ]
       },
       {
@@ -1716,795 +704,275 @@
       },
       {
         "part_of_speech": "verb",
-        "definition_en": "serve oneself to, or consume regularly",
+        "definition_en": "succeed in catching or seizing, especially after a chase",
         "examples": [
-          "Have another bowl of chicken soup!",
-          "I don't take sugar in my coffee"
+          "We finally got the suspect",
+          "Did you catch the thief?"
         ]
       },
       {
         "part_of_speech": "verb",
-        "definition_en": "have a personal or business relationship with someone",
+        "definition_en": "communicate with a place or person; establish communication with, as if by telephone",
         "examples": [
-          "have a postdoc",
-          "have an assistant",
-          "have a lover"
+          "Bill called this number and he got Mary",
+          "The operator couldn't get Kobe because of the earthquake"
         ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "reach with a blow or hit in a particular spot",
+        "examples": [
+          "the rock caught her in the back of the head",
+          "The blow got him in the back",
+          "The punch caught him in the stomach"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "reach by calculation",
+        "examples": [
+          "What do you get when you add up these numbers?"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent",
+        "examples": []
       }
     ],
     "examples": [
-      "She has $1,000 in the bank",
-      "He has got two beautiful daughters",
-      "She holds a Master's degree from Harvard",
-      "This restaurant features the most famous chefs in France",
-      "get an idea",
-      "experience vertigo",
-      "get nauseous",
-      "receive injuries",
-      "have a feeling",
-      "He owns three houses in Florida",
-      "How many cars does she have?",
+      "She got a lot of paintings from her uncle",
+      "They acquired a new pet",
+      "Get your results the next day",
+      "Get permission to take a few days off from work",
       "He got his squad on the ball",
       "This let me in for a big surprise",
       "He got a girl into trouble",
-      "Have another bowl of chicken soup!",
-      "I don't take sugar in my coffee",
-      "have a postdoc",
-      "have an assistant",
-      "have a lover"
+      "We finally got the suspect",
+      "Did you catch the thief?",
+      "Bill called this number and he got Mary",
+      "The operator couldn't get Kobe because of the earthquake",
+      "the rock caught her in the back of the head",
+      "The blow got him in the back",
+      "The punch caught him in the stomach",
+      "What do you get when you add up these numbers?"
     ],
     "synonyms": [
-      "rich person",
-      "wealthy person",
-      "have got",
-      "hold",
-      "feature",
-      "experience",
-      "receive",
-      "get",
-      "own",
-      "possess",
+      "acquire",
       "let",
-      "consume",
-      "ingest",
-      "take in",
-      "take"
-    ],
-    "antonyms": [
-      "lack",
-      "abstain"
-    ],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.71
-    }
-  },
-  {
-    "word": "at",
-    "parts_of_speech": [
-      "noun"
-    ],
-    "definitions": [
-      "a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium",
-      "100 at equal 1 kip in Laos"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium",
-        "examples": [],
-        "synonyms": [
-          "astatine",
-          "At",
-          "atomic number 85"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "100 at equal 1 kip in Laos",
-        "examples": [],
-        "synonyms": [
-          "at"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "100 at equal 1 kip in Laos",
-        "examples": []
-      }
-    ],
-    "examples": [],
-    "synonyms": [
-      "astatine",
-      "atomic number 85"
+      "have",
+      "catch",
+      "capture"
     ],
     "antonyms": [],
+    "evaluation_status": "complete",
     "difficulty": {
       "level": 1,
-      "score": 0,
+      "score": 2,
       "components": {
         "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
         "form_complexity": 0,
         "register": 0
       },
-      "zipf": 6.7
-    }
+      "zipf": 6.28
+    },
+    "evaluation_model": "qwen2.5:7b"
   },
   {
-    "word": "he",
+    "word": "new",
     "parts_of_speech": [
-      "noun"
+      "adjective"
     ],
     "definitions": [
-      "a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in economically extractable amounts in certain natural gases (as those found in Texas and Kansas)",
-      "the 5th letter of the Hebrew alphabet"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in economically extractable amounts in certain natural gases (as those found in Texas and Kansas)",
-        "examples": [],
-        "synonyms": [
-          "helium",
-          "He",
-          "atomic number 2"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "the 5th letter of the Hebrew alphabet",
-        "examples": [],
-        "synonyms": [
-          "he"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in economically extractable amounts in certain natural gases (as those found in Texas and Kansas)",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "the 5th letter of the Hebrew alphabet",
-        "examples": []
-      }
-    ],
-    "examples": [],
-    "synonyms": [
-      "helium",
-      "atomic number 2"
-    ],
-    "antonyms": [],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.69
-    }
-  },
-  {
-    "word": "not",
-    "parts_of_speech": [
-      "adverb"
-    ],
-    "definitions": [
-      "negation of a word or group of words"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "negation of a word or group of words",
-        "examples": [
-          "he does not speak French",
-          "she is not going",
-          "they are not friends",
-          "not many",
-          "not much",
-          "not at all"
-        ],
-        "synonyms": [
-          "not",
-          "non"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "negation of a word or group of words",
-        "examples": [
-          "he does not speak French",
-          "she is not going",
-          "they are not friends",
-          "not many",
-          "not much",
-          "not at all"
-        ]
-      }
-    ],
-    "examples": [
-      "he does not speak French",
-      "she is not going",
-      "they are not friends",
-      "not many",
-      "not much",
-      "not at all"
-    ],
-    "synonyms": [
-      "non"
-    ],
-    "antonyms": [],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.69
-    }
-  },
-  {
-    "word": "by",
-    "parts_of_speech": [
-      "adverb"
-    ],
-    "definitions": [
-      "so as to pass a given point",
-      "in reserve; not for immediate use"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "so as to pass a given point",
-        "examples": [
-          "every hour a train goes past"
-        ],
-        "synonyms": [
-          "by",
-          "past"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "in reserve; not for immediate use",
-        "examples": [
-          "started setting aside money to buy a car",
-          "put something by for her old age",
-          "has a nest egg tucked away for a rainy day"
-        ],
-        "synonyms": [
-          "aside",
-          "by",
-          "away"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "so as to pass a given point",
-        "examples": [
-          "every hour a train goes past"
-        ]
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "in reserve; not for immediate use",
-        "examples": [
-          "started setting aside money to buy a car",
-          "put something by for her old age",
-          "has a nest egg tucked away for a rainy day"
-        ]
-      }
-    ],
-    "examples": [
-      "every hour a train goes past",
-      "started setting aside money to buy a car",
-      "put something by for her old age",
-      "has a nest egg tucked away for a rainy day"
-    ],
-    "synonyms": [
-      "past",
-      "aside",
-      "away"
-    ],
-    "antonyms": [],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.66
-    }
-  },
-  {
-    "word": "but",
-    "parts_of_speech": [
-      "adverb"
-    ],
-    "definitions": [
-      "and nothing more"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "and nothing more",
-        "examples": [
-          "I was merely asking",
-          "it is simply a matter of time",
-          "just a scratch",
-          "he was only a child",
-          "hopes that last but a moment"
-        ],
-        "synonyms": [
-          "merely",
-          "simply",
-          "just",
-          "only",
-          "but"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "and nothing more",
-        "examples": [
-          "I was merely asking",
-          "it is simply a matter of time",
-          "just a scratch",
-          "he was only a child",
-          "hopes that last but a moment"
-        ]
-      }
-    ],
-    "examples": [
-      "I was merely asking",
-      "it is simply a matter of time",
-      "just a scratch",
-      "he was only a child",
-      "hopes that last but a moment"
-    ],
-    "synonyms": [
-      "merely",
-      "simply",
-      "just",
-      "only"
-    ],
-    "antonyms": [],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.63
-    }
-  },
-  {
-    "word": "or",
-    "parts_of_speech": [
-      "noun"
-    ],
-    "definitions": [
-      "a state in northwestern United States on the Pacific",
-      "a room in a hospital equipped for the performance of surgical operations"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a state in northwestern United States on the Pacific",
-        "examples": [],
-        "synonyms": [
-          "Oregon",
-          "Beaver State",
-          "OR"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a room in a hospital equipped for the performance of surgical operations",
-        "examples": [
-          "great care is taken to keep the operating rooms aseptic"
-        ],
-        "synonyms": [
-          "operating room",
-          "OR",
-          "operating theater",
-          "operating theatre",
-          "surgery"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a state in northwestern United States on the Pacific",
-        "examples": []
-      },
-      {
-        "part_of_speech": "noun",
-        "definition_en": "a room in a hospital equipped for the performance of surgical operations",
-        "examples": [
-          "great care is taken to keep the operating rooms aseptic"
-        ]
-      }
-    ],
-    "examples": [
-      "great care is taken to keep the operating rooms aseptic"
-    ],
-    "synonyms": [
-      "Oregon",
-      "Beaver State",
-      "operating room",
-      "operating theater",
-      "operating theatre",
-      "surgery"
-    ],
-    "antonyms": [],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.54
-    }
-  },
-  {
-    "word": "an",
-    "parts_of_speech": [
-      "noun"
-    ],
-    "definitions": [
-      "an associate degree in nursing"
-    ],
-    "senses": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "an associate degree in nursing",
-        "examples": [],
-        "synonyms": [
-          "Associate in Nursing",
-          "AN"
-        ],
-        "antonyms": []
-      }
-    ],
-    "meanings": [
-      {
-        "part_of_speech": "noun",
-        "definition_en": "an associate degree in nursing",
-        "examples": []
-      }
-    ],
-    "examples": [],
-    "synonyms": [
-      "Associate in Nursing"
-    ],
-    "antonyms": [],
-    "difficulty": {
-      "level": 1,
-      "score": 0,
-      "components": {
-        "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
-        "form_complexity": 0,
-        "register": 0
-      },
-      "zipf": 6.53
-    }
-  },
-  {
-    "word": "all",
-    "parts_of_speech": [
-      "adjective",
-      "adverb"
-    ],
-    "definitions": [
-      "quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
-      "completely given to or absorbed by",
-      "to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')"
+      "not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered",
+      "having no previous example or precedent or parallel",
+      "other than the former one(s); different"
     ],
     "senses": [
       {
         "part_of_speech": "adjective",
-        "definition_en": "quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
+        "definition_en": "not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered",
         "examples": [
-          "we sat up all night",
-          "ate all the food",
-          "all men are mortal",
-          "all parties are welcome"
+          "a new law",
+          "new cars",
+          "a new comet",
+          "a new friend",
+          "a new year",
+          "the New World"
         ],
         "synonyms": [
-          "all"
+          "new"
         ],
         "antonyms": [
-          "some",
-          "no"
+          "old"
         ]
       },
       {
         "part_of_speech": "adjective",
-        "definition_en": "completely given to or absorbed by",
+        "definition_en": "having no previous example or precedent or parallel",
         "examples": [
-          "became all attention"
+          "a time of unexampled prosperity"
         ],
         "synonyms": [
-          "all"
+          "new",
+          "unexampled"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')",
+        "part_of_speech": "adjective",
+        "definition_en": "other than the former one(s); different",
         "examples": [
-          "he was wholly convinced",
-          "entirely satisfied with the meal",
-          "it was completely different from what we expected",
-          "was completely at fault",
-          "a totally new situation",
-          "the directions were all wrong",
-          "it was not altogether her fault",
-          "an altogether new approach",
-          "a whole new idea"
+          "they now have a new leaders",
+          "my new car is four years old but has only 15,000 miles on it",
+          "ready to take a new direction"
         ],
         "synonyms": [
-          "wholly",
-          "entirely",
-          "completely",
-          "totally",
-          "all",
-          "altogether",
-          "whole"
+          "new"
         ],
-        "antonyms": [
-          "partly"
-        ]
+        "antonyms": []
       }
     ],
     "meanings": [
       {
         "part_of_speech": "adjective",
-        "definition_en": "quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
+        "definition_en": "not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered",
         "examples": [
-          "we sat up all night",
-          "ate all the food",
-          "all men are mortal",
-          "all parties are welcome"
+          "a new law",
+          "new cars",
+          "a new comet",
+          "a new friend",
+          "a new year",
+          "the New World"
         ]
       },
       {
         "part_of_speech": "adjective",
-        "definition_en": "completely given to or absorbed by",
+        "definition_en": "having no previous example or precedent or parallel",
         "examples": [
-          "became all attention"
+          "a time of unexampled prosperity"
         ]
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')",
+        "part_of_speech": "adjective",
+        "definition_en": "other than the former one(s); different",
         "examples": [
-          "he was wholly convinced",
-          "entirely satisfied with the meal",
-          "it was completely different from what we expected",
-          "was completely at fault",
-          "a totally new situation",
-          "the directions were all wrong",
-          "it was not altogether her fault",
-          "an altogether new approach",
-          "a whole new idea"
+          "they now have a new leaders",
+          "my new car is four years old but has only 15,000 miles on it",
+          "ready to take a new direction"
         ]
       }
     ],
     "examples": [
-      "we sat up all night",
-      "ate all the food",
-      "all men are mortal",
-      "all parties are welcome",
-      "became all attention",
-      "he was wholly convinced",
-      "entirely satisfied with the meal",
-      "it was completely different from what we expected",
-      "was completely at fault",
-      "a totally new situation",
-      "the directions were all wrong",
-      "it was not altogether her fault",
-      "an altogether new approach",
-      "a whole new idea"
+      "a new law",
+      "new cars",
+      "a new comet",
+      "a new friend",
+      "a new year",
+      "the New World",
+      "a time of unexampled prosperity",
+      "they now have a new leaders",
+      "my new car is four years old but has only 15,000 miles on it",
+      "ready to take a new direction"
     ],
     "synonyms": [
-      "wholly",
-      "entirely",
-      "completely",
-      "totally",
-      "altogether",
-      "whole"
+      "unexampled"
     ],
     "antonyms": [
-      "some",
-      "no",
-      "partly"
+      "old"
     ],
+    "evaluation_status": "complete",
     "difficulty": {
       "level": 1,
-      "score": 0,
+      "score": 1,
       "components": {
         "frequency": 0,
-        "abstractness": 0,
+        "abstractness": 1,
         "semantic_complexity": 0,
         "form_complexity": 0,
         "register": 0
       },
-      "zipf": 6.52
-    }
+      "zipf": 6.25
+    },
+    "evaluation_model": "qwen2.5:7b"
   },
   {
-    "word": "so",
+    "word": "people",
     "parts_of_speech": [
       "noun",
-      "adverb"
+      "verb"
     ],
     "definitions": [
-      "the syllable naming the fifth (dominant) note of any musical scale in solmization",
-      "to a very great extent or degree",
-      "in a manner that facilitates",
-      "in such a condition or manner, especially as expressed or implied",
-      "to a certain unspecified extent or degree",
-      "in the same way; also",
-      "in the way indicated; ; ; (`thusly' is a nonstandard variant)",
-      "(usually followed by `that') to an extent or degree as expressed"
+      "(plural) any group of human beings (men or women or children) collectively",
+      "the body of citizens of a state or country",
+      "members of a family line",
+      "the common people generally",
+      "fill with people"
     ],
     "senses": [
       {
         "part_of_speech": "noun",
-        "definition_en": "the syllable naming the fifth (dominant) note of any musical scale in solmization",
-        "examples": [],
+        "definition_en": "(plural) any group of human beings (men or women or children) collectively",
+        "examples": [
+          "old people",
+          "there were at least 200 people in the audience"
+        ],
         "synonyms": [
-          "sol",
-          "soh",
-          "so"
+          "people"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "to a very great extent or degree",
+        "part_of_speech": "noun",
+        "definition_en": "the body of citizens of a state or country",
         "examples": [
-          "the idea is so obvious",
-          "never been so happy",
-          "I love you so",
-          "my head aches so!"
+          "the Spanish people"
         ],
         "synonyms": [
-          "so"
+          "citizenry",
+          "people"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "in a manner that facilitates",
+        "part_of_speech": "noun",
+        "definition_en": "members of a family line",
         "examples": [
-          "he observed the snakes so he could describe their behavior",
-          "he stooped down so he could pick up his hat"
+          "his people have been farmers for generations",
+          "are your people still alive?"
         ],
         "synonyms": [
-          "so"
+          "people"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "in such a condition or manner, especially as expressed or implied",
+        "part_of_speech": "noun",
+        "definition_en": "the common people generally",
         "examples": [
-          "They're happy and I hope they will remain so",
-          "so live your life that old age will bring no regrets"
+          "separate the warriors from the mass",
+          "power to the people"
         ],
         "synonyms": [
-          "so"
+          "multitude",
+          "masses",
+          "mass",
+          "hoi polloi",
+          "people",
+          "the great unwashed"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "to a certain unspecified extent or degree",
+        "part_of_speech": "verb",
+        "definition_en": "fill with people",
         "examples": [
-          "I can only go so far with this student",
-          "can do only so much in a day"
+          "Stalin wanted to people the empty steppes"
         ],
         "synonyms": [
-          "so"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "in the same way; also",
-        "examples": [
-          "I was offended and so was he",
-          "worked hard and so did she"
-        ],
-        "synonyms": [
-          "so"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "in the way indicated; ; ; (`thusly' is a nonstandard variant)",
-        "examples": [
-          "hold the brush so",
-          "set up the pieces thus"
-        ],
-        "synonyms": [
-          "thus",
-          "thusly",
-          "so"
-        ],
-        "antonyms": []
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "(usually followed by `that') to an extent or degree as expressed",
-        "examples": [
-          "he was so tired he could hardly stand",
-          "so dirty that it smells"
-        ],
-        "synonyms": [
-          "so"
+          "people"
         ],
         "antonyms": []
       }
@@ -2512,268 +980,2942 @@
     "meanings": [
       {
         "part_of_speech": "noun",
-        "definition_en": "the syllable naming the fifth (dominant) note of any musical scale in solmization",
-        "examples": []
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "to a very great extent or degree",
+        "definition_en": "(plural) any group of human beings (men or women or children) collectively",
         "examples": [
-          "the idea is so obvious",
-          "never been so happy",
-          "I love you so",
-          "my head aches so!"
+          "old people",
+          "there were at least 200 people in the audience"
         ]
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "in a manner that facilitates",
+        "part_of_speech": "noun",
+        "definition_en": "the body of citizens of a state or country",
         "examples": [
-          "he observed the snakes so he could describe their behavior",
-          "he stooped down so he could pick up his hat"
+          "the Spanish people"
         ]
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "in such a condition or manner, especially as expressed or implied",
+        "part_of_speech": "noun",
+        "definition_en": "members of a family line",
         "examples": [
-          "They're happy and I hope they will remain so",
-          "so live your life that old age will bring no regrets"
+          "his people have been farmers for generations",
+          "are your people still alive?"
         ]
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "to a certain unspecified extent or degree",
+        "part_of_speech": "noun",
+        "definition_en": "the common people generally",
         "examples": [
-          "I can only go so far with this student",
-          "can do only so much in a day"
+          "separate the warriors from the mass",
+          "power to the people"
         ]
       },
       {
-        "part_of_speech": "adverb",
-        "definition_en": "in the same way; also",
+        "part_of_speech": "verb",
+        "definition_en": "fill with people",
         "examples": [
-          "I was offended and so was he",
-          "worked hard and so did she"
-        ]
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "in the way indicated; ; ; (`thusly' is a nonstandard variant)",
-        "examples": [
-          "hold the brush so",
-          "set up the pieces thus"
-        ]
-      },
-      {
-        "part_of_speech": "adverb",
-        "definition_en": "(usually followed by `that') to an extent or degree as expressed",
-        "examples": [
-          "he was so tired he could hardly stand",
-          "so dirty that it smells"
+          "Stalin wanted to people the empty steppes"
         ]
       }
     ],
     "examples": [
-      "the idea is so obvious",
-      "never been so happy",
-      "I love you so",
-      "my head aches so!",
-      "he observed the snakes so he could describe their behavior",
-      "he stooped down so he could pick up his hat",
-      "They're happy and I hope they will remain so",
-      "so live your life that old age will bring no regrets",
-      "I can only go so far with this student",
-      "can do only so much in a day",
-      "I was offended and so was he",
-      "worked hard and so did she",
-      "hold the brush so",
-      "set up the pieces thus",
-      "he was so tired he could hardly stand",
-      "so dirty that it smells"
+      "old people",
+      "there were at least 200 people in the audience",
+      "the Spanish people",
+      "his people have been farmers for generations",
+      "are your people still alive?",
+      "separate the warriors from the mass",
+      "power to the people",
+      "Stalin wanted to people the empty steppes"
     ],
     "synonyms": [
-      "sol",
-      "soh",
-      "thus",
-      "thusly"
+      "citizenry",
+      "multitude",
+      "masses",
+      "mass",
+      "hoi polloi",
+      "the great unwashed"
     ],
     "antonyms": [],
+    "evaluation_status": "complete",
     "difficulty": {
       "level": 1,
-      "score": 0,
+      "score": 2,
       "components": {
         "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
         "form_complexity": 0,
         "register": 0
       },
-      "zipf": 6.52
-    }
+      "zipf": 6.25
+    },
+    "evaluation_model": "qwen2.5:7b"
   },
   {
-    "word": "me",
+    "word": "now",
     "parts_of_speech": [
+      "adverb",
       "noun"
     ],
     "definitions": [
-      "a state in New England"
+      "in the historical present; at this point in the narration of a series of past events",
+      "used to preface a command or reproof or request",
+      "at the present moment",
+      "the momentary present"
     ],
     "senses": [
       {
-        "part_of_speech": "noun",
-        "definition_en": "a state in New England",
-        "examples": [],
+        "part_of_speech": "adverb",
+        "definition_en": "in the historical present; at this point in the narration of a series of past events",
+        "examples": [
+          "President Kennedy now calls in the National Guard",
+          "Washington now decides to cross the Delaware",
+          "the ship is now listing to port"
+        ],
         "synonyms": [
-          "Maine",
-          "Pine Tree State",
-          "ME"
+          "now"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "used to preface a command or reproof or request",
+        "examples": [
+          "now hear this!",
+          "now pay attention"
+        ],
+        "synonyms": [
+          "now"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "at the present moment",
+        "examples": [
+          "goods now on sale",
+          "the now-aging dictator",
+          "they are now abroad",
+          "he is busy at present writing a new novel",
+          "it could happen any time now"
+        ],
+        "synonyms": [
+          "now",
+          "at present"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the momentary present",
+        "examples": [
+          "Now is a good time to do it",
+          "it worked up to right now"
+        ],
+        "synonyms": [
+          "now"
         ],
         "antonyms": []
       }
     ],
     "meanings": [
       {
+        "part_of_speech": "adverb",
+        "definition_en": "in the historical present; at this point in the narration of a series of past events",
+        "examples": [
+          "President Kennedy now calls in the National Guard",
+          "Washington now decides to cross the Delaware",
+          "the ship is now listing to port"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "used to preface a command or reproof or request",
+        "examples": [
+          "now hear this!",
+          "now pay attention"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "at the present moment",
+        "examples": [
+          "goods now on sale",
+          "the now-aging dictator",
+          "they are now abroad",
+          "he is busy at present writing a new novel",
+          "it could happen any time now"
+        ]
+      },
+      {
         "part_of_speech": "noun",
-        "definition_en": "a state in New England",
-        "examples": []
+        "definition_en": "the momentary present",
+        "examples": [
+          "Now is a good time to do it",
+          "it worked up to right now"
+        ]
       }
     ],
-    "examples": [],
+    "examples": [
+      "President Kennedy now calls in the National Guard",
+      "Washington now decides to cross the Delaware",
+      "the ship is now listing to port",
+      "now hear this!",
+      "now pay attention",
+      "goods now on sale",
+      "the now-aging dictator",
+      "they are now abroad",
+      "he is busy at present writing a new novel",
+      "it could happen any time now",
+      "Now is a good time to do it",
+      "it worked up to right now"
+    ],
     "synonyms": [
-      "Maine",
-      "Pine Tree State"
+      "at present"
     ],
     "antonyms": [],
+    "evaluation_status": "complete",
     "difficulty": {
       "level": 1,
-      "score": 0,
+      "score": 1,
       "components": {
         "frequency": 0,
-        "abstractness": 0,
+        "abstractness": 1,
         "semantic_complexity": 0,
         "form_complexity": 0,
         "register": 0
       },
-      "zipf": 6.48
-    }
+      "zipf": 6.18
+    },
+    "evaluation_model": "qwen2.5:7b"
   },
   {
-    "word": "one",
+    "word": "good",
     "parts_of_speech": [
+      "adjective",
+      "noun"
+    ],
+    "definitions": [
+      "having desirable or positive qualities especially those suitable for a thing specified",
+      "morally admirable",
+      "benefit",
+      "moral excellence or admirableness",
+      "that which is pleasing or valuable or useful",
+      "agreeable or pleasing",
+      "of moral excellence",
+      "thorough"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "having desirable or positive qualities especially those suitable for a thing specified",
+        "examples": [
+          "good news from the hospital",
+          "a good report card",
+          "when she was good she was very very good",
+          "a good knife is one good for cutting",
+          "this stump will make a good picnic table",
+          "a good check",
+          "a good joke",
+          "a good exterior paint",
+          "a good secretary",
+          "a good dress for the office"
+        ],
+        "synonyms": [
+          "good"
+        ],
+        "antonyms": [
+          "bad"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "morally admirable",
+        "examples": [],
+        "synonyms": [
+          "good"
+        ],
+        "antonyms": [
+          "evil"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "benefit",
+        "examples": [
+          "for your own good",
+          "what's the good of worrying?"
+        ],
+        "synonyms": [
+          "good"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "moral excellence or admirableness",
+        "examples": [
+          "there is much good to be found in people"
+        ],
+        "synonyms": [
+          "good",
+          "goodness"
+        ],
+        "antonyms": [
+          "evil",
+          "evilness"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "that which is pleasing or valuable or useful",
+        "examples": [
+          "weigh the good against the bad",
+          "among the highest goods of all are happiness and self-realization"
+        ],
+        "synonyms": [
+          "good",
+          "goodness"
+        ],
+        "antonyms": [
+          "bad",
+          "badness"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "agreeable or pleasing",
+        "examples": [
+          "we all had a good time",
+          "good manners"
+        ],
+        "synonyms": [
+          "good"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "of moral excellence",
+        "examples": [
+          "a genuinely good person",
+          "a just cause",
+          "an upright and respectable man"
+        ],
+        "synonyms": [
+          "good",
+          "just",
+          "upright"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "thorough",
+        "examples": [
+          "had a good workout",
+          "gave the house a good cleaning"
+        ],
+        "synonyms": [
+          "good"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "having desirable or positive qualities especially those suitable for a thing specified",
+        "examples": [
+          "good news from the hospital",
+          "a good report card",
+          "when she was good she was very very good",
+          "a good knife is one good for cutting",
+          "this stump will make a good picnic table",
+          "a good check",
+          "a good joke",
+          "a good exterior paint",
+          "a good secretary",
+          "a good dress for the office"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "morally admirable",
+        "examples": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "benefit",
+        "examples": [
+          "for your own good",
+          "what's the good of worrying?"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "moral excellence or admirableness",
+        "examples": [
+          "there is much good to be found in people"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "that which is pleasing or valuable or useful",
+        "examples": [
+          "weigh the good against the bad",
+          "among the highest goods of all are happiness and self-realization"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "agreeable or pleasing",
+        "examples": [
+          "we all had a good time",
+          "good manners"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "of moral excellence",
+        "examples": [
+          "a genuinely good person",
+          "a just cause",
+          "an upright and respectable man"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "thorough",
+        "examples": [
+          "had a good workout",
+          "gave the house a good cleaning"
+        ]
+      }
+    ],
+    "examples": [
+      "good news from the hospital",
+      "a good report card",
+      "when she was good she was very very good",
+      "a good knife is one good for cutting",
+      "this stump will make a good picnic table",
+      "a good check",
+      "a good joke",
+      "a good exterior paint",
+      "a good secretary",
+      "a good dress for the office",
+      "for your own good",
+      "what's the good of worrying?",
+      "there is much good to be found in people",
+      "weigh the good against the bad",
+      "among the highest goods of all are happiness and self-realization",
+      "we all had a good time",
+      "good manners",
+      "a genuinely good person",
+      "a just cause",
+      "an upright and respectable man",
+      "had a good workout",
+      "gave the house a good cleaning"
+    ],
+    "synonyms": [
+      "goodness",
+      "just",
+      "upright"
+    ],
+    "antonyms": [
+      "bad",
+      "evil",
+      "evilness",
+      "badness"
+    ],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.12
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "first",
+    "parts_of_speech": [
+      "adjective",
+      "adverb",
+      "noun"
+    ],
+    "definitions": [
+      "preceding all others in time or space or degree",
+      "indicating the beginning unit in a series",
+      "before anything else",
+      "the initial time",
+      "the first or highest in an ordering or series",
+      "before another in time, space, or importance",
+      "the first element in a countable series",
+      "serving to set in motion"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "preceding all others in time or space or degree",
+        "examples": [
+          "the first house on the right",
+          "the first day of spring",
+          "his first political race",
+          "her first baby",
+          "the first time",
+          "the first meetings of the new party",
+          "the first phase of his training"
+        ],
+        "synonyms": [
+          "first"
+        ],
+        "antonyms": [
+          "last"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "indicating the beginning unit in a series",
+        "examples": [],
+        "synonyms": [
+          "first",
+          "1st"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "before anything else",
+        "examples": [
+          "first we must consider the garter snake"
+        ],
+        "synonyms": [
+          "first",
+          "firstly",
+          "foremost",
+          "first of all",
+          "first off"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "the initial time",
+        "examples": [
+          "when Felix first saw a garter snake"
+        ],
+        "synonyms": [
+          "first",
+          "for the first time"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the first or highest in an ordering or series",
+        "examples": [
+          "He wanted to be the first"
+        ],
+        "synonyms": [
+          "first",
+          "number one"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "before another in time, space, or importance",
+        "examples": [
+          "I was here first",
+          "let's do this job first"
+        ],
+        "synonyms": [
+          "first"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the first element in a countable series",
+        "examples": [
+          "the first of the month"
+        ],
+        "synonyms": [
+          "first",
+          "number one",
+          "number 1"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "serving to set in motion",
+        "examples": [
+          "the magazine's inaugural issue",
+          "the initiative phase in the negotiations",
+          "an initiatory step toward a treaty",
+          "his first (or maiden) speech in Congress",
+          "the liner's maiden voyage"
+        ],
+        "synonyms": [
+          "inaugural",
+          "initiative",
+          "initiatory",
+          "first",
+          "maiden"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "preceding all others in time or space or degree",
+        "examples": [
+          "the first house on the right",
+          "the first day of spring",
+          "his first political race",
+          "her first baby",
+          "the first time",
+          "the first meetings of the new party",
+          "the first phase of his training"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "indicating the beginning unit in a series",
+        "examples": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "before anything else",
+        "examples": [
+          "first we must consider the garter snake"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "the initial time",
+        "examples": [
+          "when Felix first saw a garter snake"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the first or highest in an ordering or series",
+        "examples": [
+          "He wanted to be the first"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "before another in time, space, or importance",
+        "examples": [
+          "I was here first",
+          "let's do this job first"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the first element in a countable series",
+        "examples": [
+          "the first of the month"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "serving to set in motion",
+        "examples": [
+          "the magazine's inaugural issue",
+          "the initiative phase in the negotiations",
+          "an initiatory step toward a treaty",
+          "his first (or maiden) speech in Congress",
+          "the liner's maiden voyage"
+        ]
+      }
+    ],
+    "examples": [
+      "the first house on the right",
+      "the first day of spring",
+      "his first political race",
+      "her first baby",
+      "the first time",
+      "the first meetings of the new party",
+      "the first phase of his training",
+      "first we must consider the garter snake",
+      "when Felix first saw a garter snake",
+      "He wanted to be the first",
+      "I was here first",
+      "let's do this job first",
+      "the first of the month",
+      "the magazine's inaugural issue",
+      "the initiative phase in the negotiations",
+      "an initiatory step toward a treaty",
+      "his first (or maiden) speech in Congress",
+      "the liner's maiden voyage"
+    ],
+    "synonyms": [
+      "1st",
+      "firstly",
+      "foremost",
+      "first of all",
+      "first off",
+      "for the first time",
+      "number one",
+      "number 1",
+      "inaugural",
+      "initiative",
+      "initiatory",
+      "maiden"
+    ],
+    "antonyms": [
+      "last"
+    ],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.11
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "know",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "definitions": [
+      "be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about",
+      "know how to do or perform something",
+      "be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt",
+      "be familiar or acquainted with a person or an object",
+      "have firsthand knowledge of states, situations, emotions, or sensations",
+      "have fixed in the mind",
+      "the fact of being aware of information that is known to few people"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about",
+        "examples": [
+          "I know that the President lied to the people",
+          "I want to know who is winning the game!",
+          "I know it's time"
+        ],
+        "synonyms": [
+          "know",
+          "cognize",
+          "cognise"
+        ],
+        "antonyms": [
+          "ignore"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "know how to do or perform something",
+        "examples": [
+          "She knows how to knit",
+          "Does your husband know how to cook?"
+        ],
+        "synonyms": [
+          "know"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt",
+        "examples": [
+          "I know that I left the key on the table",
+          "Galileo knew that the earth moves around the sun"
+        ],
+        "synonyms": [
+          "know"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be familiar or acquainted with a person or an object",
+        "examples": [
+          "She doesn't know this composer",
+          "Do you know my sister?",
+          "We know this movie",
+          "I know him under a different name",
+          "This flower is known as a Peruvian Lily"
+        ],
+        "synonyms": [
+          "know"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have firsthand knowledge of states, situations, emotions, or sensations",
+        "examples": [
+          "I know the feeling!",
+          "have you ever known hunger?",
+          "I have lived a kind of hell when I was a drug addict",
+          "The holocaust survivors have lived a nightmare",
+          "I lived through two divorces"
+        ],
+        "synonyms": [
+          "know",
+          "experience",
+          "live"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have fixed in the mind",
+        "examples": [
+          "I know Latin",
+          "This student knows her irregular verbs",
+          "Do you know the poem well enough to recite it?"
+        ],
+        "synonyms": [
+          "know"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the fact of being aware of information that is known to few people",
+        "examples": [
+          "he is always in the know"
+        ],
+        "synonyms": [
+          "know"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about",
+        "examples": [
+          "I know that the President lied to the people",
+          "I want to know who is winning the game!",
+          "I know it's time"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "know how to do or perform something",
+        "examples": [
+          "She knows how to knit",
+          "Does your husband know how to cook?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt",
+        "examples": [
+          "I know that I left the key on the table",
+          "Galileo knew that the earth moves around the sun"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be familiar or acquainted with a person or an object",
+        "examples": [
+          "She doesn't know this composer",
+          "Do you know my sister?",
+          "We know this movie",
+          "I know him under a different name",
+          "This flower is known as a Peruvian Lily"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have firsthand knowledge of states, situations, emotions, or sensations",
+        "examples": [
+          "I know the feeling!",
+          "have you ever known hunger?",
+          "I have lived a kind of hell when I was a drug addict",
+          "The holocaust survivors have lived a nightmare",
+          "I lived through two divorces"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have fixed in the mind",
+        "examples": [
+          "I know Latin",
+          "This student knows her irregular verbs",
+          "Do you know the poem well enough to recite it?"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the fact of being aware of information that is known to few people",
+        "examples": [
+          "he is always in the know"
+        ]
+      }
+    ],
+    "examples": [
+      "I know that the President lied to the people",
+      "I want to know who is winning the game!",
+      "I know it's time",
+      "She knows how to knit",
+      "Does your husband know how to cook?",
+      "I know that I left the key on the table",
+      "Galileo knew that the earth moves around the sun",
+      "She doesn't know this composer",
+      "Do you know my sister?",
+      "We know this movie",
+      "I know him under a different name",
+      "This flower is known as a Peruvian Lily",
+      "I know the feeling!",
+      "have you ever known hunger?",
+      "I have lived a kind of hell when I was a drug addict",
+      "The holocaust survivors have lived a nightmare",
+      "I lived through two divorces",
+      "I know Latin",
+      "This student knows her irregular verbs",
+      "Do you know the poem well enough to recite it?",
+      "he is always in the know"
+    ],
+    "synonyms": [
+      "cognize",
+      "cognise",
+      "experience",
+      "live"
+    ],
+    "antonyms": [
+      "ignore"
+    ],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.1
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "see",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "definitions": [
+      "perceive by sight or have the power to perceive by sight",
+      "deem to be",
+      "be careful or certain to do something; make certain of something",
+      "go to see for professional or business reasons",
+      "go to see for a social visit",
+      "receive as a specified guest",
+      "see and understand, have a good eye",
+      "deliberate or decide"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "perceive by sight or have the power to perceive by sight",
+        "examples": [
+          "You have to be a good observer to see all the details",
+          "Can you see the bird in that tree?",
+          "He is blind--he cannot see"
+        ],
+        "synonyms": [
+          "see"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "deem to be",
+        "examples": [
+          "She views this quite differently from me",
+          "I consider her to be shallow",
+          "I don't see the situation quite as negatively as you do"
+        ],
+        "synonyms": [
+          "see",
+          "consider",
+          "reckon",
+          "view",
+          "regard"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be careful or certain to do something; make certain of something",
+        "examples": [
+          "He verified that the valves were closed",
+          "See that the curtains are closed",
+          "control the quality of the product"
+        ],
+        "synonyms": [
+          "see",
+          "check",
+          "insure",
+          "see to it",
+          "ensure",
+          "control",
+          "ascertain",
+          "assure"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "go to see for professional or business reasons",
+        "examples": [
+          "You should see a lawyer",
+          "We had to see a psychiatrist"
+        ],
+        "synonyms": [
+          "see"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "go to see for a social visit",
+        "examples": [
+          "I went to see my friend Mary the other day"
+        ],
+        "synonyms": [
+          "see"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "receive as a specified guest",
+        "examples": [
+          "the doctor will see you now",
+          "The minister doesn't see anybody before noon"
+        ],
+        "synonyms": [
+          "see"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "see and understand, have a good eye",
+        "examples": [
+          "The artist must first learn to see"
+        ],
+        "synonyms": [
+          "see"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "deliberate or decide",
+        "examples": [
+          "See whether you can come tomorrow",
+          "let's see--which movie should we see tonight?"
+        ],
+        "synonyms": [
+          "see"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "perceive by sight or have the power to perceive by sight",
+        "examples": [
+          "You have to be a good observer to see all the details",
+          "Can you see the bird in that tree?",
+          "He is blind--he cannot see"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "deem to be",
+        "examples": [
+          "She views this quite differently from me",
+          "I consider her to be shallow",
+          "I don't see the situation quite as negatively as you do"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be careful or certain to do something; make certain of something",
+        "examples": [
+          "He verified that the valves were closed",
+          "See that the curtains are closed",
+          "control the quality of the product"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "go to see for professional or business reasons",
+        "examples": [
+          "You should see a lawyer",
+          "We had to see a psychiatrist"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "go to see for a social visit",
+        "examples": [
+          "I went to see my friend Mary the other day"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "receive as a specified guest",
+        "examples": [
+          "the doctor will see you now",
+          "The minister doesn't see anybody before noon"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "see and understand, have a good eye",
+        "examples": [
+          "The artist must first learn to see"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "deliberate or decide",
+        "examples": [
+          "See whether you can come tomorrow",
+          "let's see--which movie should we see tonight?"
+        ]
+      }
+    ],
+    "examples": [
+      "You have to be a good observer to see all the details",
+      "Can you see the bird in that tree?",
+      "He is blind--he cannot see",
+      "She views this quite differently from me",
+      "I consider her to be shallow",
+      "I don't see the situation quite as negatively as you do",
+      "He verified that the valves were closed",
+      "See that the curtains are closed",
+      "control the quality of the product",
+      "You should see a lawyer",
+      "We had to see a psychiatrist",
+      "I went to see my friend Mary the other day",
+      "the doctor will see you now",
+      "The minister doesn't see anybody before noon",
+      "The artist must first learn to see",
+      "See whether you can come tomorrow",
+      "let's see--which movie should we see tonight?"
+    ],
+    "synonyms": [
+      "consider",
+      "reckon",
+      "view",
+      "regard",
+      "check",
+      "insure",
+      "see to it",
+      "ensure",
+      "control",
+      "ascertain",
+      "assure"
+    ],
+    "antonyms": [],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.1
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "make",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "definitions": [
+      "engage in",
+      "give certain properties to something",
+      "make or cause to be or to become",
+      "compel or make somebody or something to act in a certain way",
+      "be or be capable of being changed or made into",
+      "make by shaping or bringing together constituents",
+      "perform or carry out",
+      "change from one form into another"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "engage in",
+        "examples": [
+          "make love, not war",
+          "make an effort",
+          "do research",
+          "do nothing",
+          "make revolution"
+        ],
+        "synonyms": [
+          "make",
+          "do"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "give certain properties to something",
+        "examples": [
+          "get someone mad",
+          "She made us look silly",
+          "He made a fool of himself at the meeting",
+          "Don't make this into a big deal",
+          "This invention will make you a millionaire",
+          "Make yourself clear"
+        ],
+        "synonyms": [
+          "make",
+          "get"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "make or cause to be or to become",
+        "examples": [
+          "make a mess in one's office",
+          "create a furor"
+        ],
+        "synonyms": [
+          "make",
+          "create"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "compel or make somebody or something to act in a certain way",
+        "examples": [
+          "People cannot be made to integrate just by passing a law!",
+          "Heat makes you sweat"
+        ],
+        "synonyms": [
+          "make"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be or be capable of being changed or made into",
+        "examples": [
+          "He makes a great host",
+          "He will make a fine father"
+        ],
+        "synonyms": [
+          "make"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "make by shaping or bringing together constituents",
+        "examples": [
+          "make a dress",
+          "make a cake",
+          "make a wall of stones"
+        ],
+        "synonyms": [
+          "make"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "perform or carry out",
+        "examples": [
+          "make a decision",
+          "make a move",
+          "make advances",
+          "make a phone call"
+        ],
+        "synonyms": [
+          "make"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "change from one form into another",
+        "examples": [
+          "make water into wine",
+          "make lead into gold",
+          "make clay into bricks"
+        ],
+        "synonyms": [
+          "make"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "engage in",
+        "examples": [
+          "make love, not war",
+          "make an effort",
+          "do research",
+          "do nothing",
+          "make revolution"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "give certain properties to something",
+        "examples": [
+          "get someone mad",
+          "She made us look silly",
+          "He made a fool of himself at the meeting",
+          "Don't make this into a big deal",
+          "This invention will make you a millionaire",
+          "Make yourself clear"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "make or cause to be or to become",
+        "examples": [
+          "make a mess in one's office",
+          "create a furor"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "compel or make somebody or something to act in a certain way",
+        "examples": [
+          "People cannot be made to integrate just by passing a law!",
+          "Heat makes you sweat"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be or be capable of being changed or made into",
+        "examples": [
+          "He makes a great host",
+          "He will make a fine father"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "make by shaping or bringing together constituents",
+        "examples": [
+          "make a dress",
+          "make a cake",
+          "make a wall of stones"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "perform or carry out",
+        "examples": [
+          "make a decision",
+          "make a move",
+          "make advances",
+          "make a phone call"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "change from one form into another",
+        "examples": [
+          "make water into wine",
+          "make lead into gold",
+          "make clay into bricks"
+        ]
+      }
+    ],
+    "examples": [
+      "make love, not war",
+      "make an effort",
+      "do research",
+      "do nothing",
+      "make revolution",
+      "get someone mad",
+      "She made us look silly",
+      "He made a fool of himself at the meeting",
+      "Don't make this into a big deal",
+      "This invention will make you a millionaire",
+      "Make yourself clear",
+      "make a mess in one's office",
+      "create a furor",
+      "People cannot be made to integrate just by passing a law!",
+      "Heat makes you sweat",
+      "He makes a great host",
+      "He will make a fine father",
+      "make a dress",
+      "make a cake",
+      "make a wall of stones",
+      "make a decision",
+      "make a move",
+      "make advances",
+      "make a phone call",
+      "make water into wine",
+      "make lead into gold",
+      "make clay into bricks"
+    ],
+    "synonyms": [
+      "do",
+      "get",
+      "create"
+    ],
+    "antonyms": [],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.08
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "think",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "definitions": [
+      "judge or regard; look upon; judge",
+      "expect, believe, or suppose",
+      "use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments",
+      "recall knowledge from memory; have a recollection",
+      "imagine or visualize",
+      "focus one's attention on a certain state",
+      "have in mind as a purpose",
+      "an instance of deliberate thinking"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "judge or regard; look upon; judge",
+        "examples": [
+          "I think he is very smart",
+          "I believe her to be very smart",
+          "I think that he is her boyfriend",
+          "The racist conceives such people to be inferior"
+        ],
+        "synonyms": [
+          "think",
+          "believe",
+          "consider",
+          "conceive"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "expect, believe, or suppose",
+        "examples": [
+          "I imagine she earned a lot of money with her new novel",
+          "I thought to find her in a bad state",
+          "he didn't think to find her in the kitchen",
+          "I guess she is angry at me for standing her up"
+        ],
+        "synonyms": [
+          "think",
+          "opine",
+          "suppose",
+          "imagine",
+          "reckon",
+          "guess"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments",
+        "examples": [
+          "I've been thinking all day and getting nowhere"
+        ],
+        "synonyms": [
+          "think",
+          "cogitate",
+          "cerebrate"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "recall knowledge from memory; have a recollection",
+        "examples": [
+          "I can't remember saying any such thing",
+          "I can't think what her last name was",
+          "can you remember her phone number?",
+          "Do you remember that he once loved you?",
+          "call up memories"
+        ],
+        "synonyms": [
+          "remember",
+          "retrieve",
+          "recall",
+          "call back",
+          "call up",
+          "recollect",
+          "think"
+        ],
+        "antonyms": [
+          "forget"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "imagine or visualize",
+        "examples": [
+          "Just think--you could be rich one day!",
+          "Think what a scene it must have been!"
+        ],
+        "synonyms": [
+          "think"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "focus one's attention on a certain state",
+        "examples": [
+          "Think big",
+          "think thin"
+        ],
+        "synonyms": [
+          "think"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have in mind as a purpose",
+        "examples": [
+          "I mean no harm",
+          "I only meant to help you",
+          "She didn't think to harm me",
+          "We thought to return early that night"
+        ],
+        "synonyms": [
+          "intend",
+          "mean",
+          "think"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "an instance of deliberate thinking",
+        "examples": [
+          "I need to give it a good think"
+        ],
+        "synonyms": [
+          "think"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "judge or regard; look upon; judge",
+        "examples": [
+          "I think he is very smart",
+          "I believe her to be very smart",
+          "I think that he is her boyfriend",
+          "The racist conceives such people to be inferior"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "expect, believe, or suppose",
+        "examples": [
+          "I imagine she earned a lot of money with her new novel",
+          "I thought to find her in a bad state",
+          "he didn't think to find her in the kitchen",
+          "I guess she is angry at me for standing her up"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments",
+        "examples": [
+          "I've been thinking all day and getting nowhere"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "recall knowledge from memory; have a recollection",
+        "examples": [
+          "I can't remember saying any such thing",
+          "I can't think what her last name was",
+          "can you remember her phone number?",
+          "Do you remember that he once loved you?",
+          "call up memories"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "imagine or visualize",
+        "examples": [
+          "Just think--you could be rich one day!",
+          "Think what a scene it must have been!"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "focus one's attention on a certain state",
+        "examples": [
+          "Think big",
+          "think thin"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have in mind as a purpose",
+        "examples": [
+          "I mean no harm",
+          "I only meant to help you",
+          "She didn't think to harm me",
+          "We thought to return early that night"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "an instance of deliberate thinking",
+        "examples": [
+          "I need to give it a good think"
+        ]
+      }
+    ],
+    "examples": [
+      "I think he is very smart",
+      "I believe her to be very smart",
+      "I think that he is her boyfriend",
+      "The racist conceives such people to be inferior",
+      "I imagine she earned a lot of money with her new novel",
+      "I thought to find her in a bad state",
+      "he didn't think to find her in the kitchen",
+      "I guess she is angry at me for standing her up",
+      "I've been thinking all day and getting nowhere",
+      "I can't remember saying any such thing",
+      "I can't think what her last name was",
+      "can you remember her phone number?",
+      "Do you remember that he once loved you?",
+      "call up memories",
+      "Just think--you could be rich one day!",
+      "Think what a scene it must have been!",
+      "Think big",
+      "think thin",
+      "I mean no harm",
+      "I only meant to help you",
+      "She didn't think to harm me",
+      "We thought to return early that night",
+      "I need to give it a good think"
+    ],
+    "synonyms": [
+      "believe",
+      "consider",
+      "conceive",
+      "opine",
+      "suppose",
+      "imagine",
+      "reckon",
+      "guess",
+      "cogitate",
+      "cerebrate",
+      "remember",
+      "retrieve",
+      "recall",
+      "call back",
+      "call up",
+      "recollect",
+      "intend",
+      "mean"
+    ],
+    "antonyms": [
+      "forget"
+    ],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.08
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "then",
+    "parts_of_speech": [
+      "adverb",
       "noun",
       "adjective"
     ],
     "definitions": [
-      "the smallest whole number or a numeral representing this number",
-      "a single person or thing",
-      "used of a single unit or thing; not two or more",
-      "having the indivisible character of a unit",
-      "of the same kind or quality",
-      "used informally as an intensifier",
-      "indefinite in time or position",
-      "being a single entity made by combining separate components"
+      "subsequently or soon afterward (often used as sentence connectors)",
+      "in that case or as a consequence",
+      "at that time",
+      "that time; that moment",
+      "at a specific prior time"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "subsequently or soon afterward (often used as sentence connectors)",
+        "examples": [
+          "then he left",
+          "go left first, then right",
+          "first came lightning, then thunder",
+          "we watched the late movie and then went to bed",
+          "and so home and to bed"
+        ],
+        "synonyms": [
+          "then",
+          "so",
+          "and so",
+          "and then"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in that case or as a consequence",
+        "examples": [
+          "if he didn't take it, then who did?",
+          "keep it then if you want to",
+          "the case, then, is closed",
+          "you've made up your mind then?",
+          "then you'll be rich"
+        ],
+        "synonyms": [
+          "then"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "at that time",
+        "examples": [
+          "I was young then",
+          "prices were lower back then",
+          "science as it was then taught"
+        ],
+        "synonyms": [
+          "then"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "that time; that moment",
+        "examples": [
+          "we will arrive before then",
+          "we were friends from then on"
+        ],
+        "synonyms": [
+          "then"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "at a specific prior time",
+        "examples": [
+          "the then president"
+        ],
+        "synonyms": [
+          "then"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "subsequently or soon afterward (often used as sentence connectors)",
+        "examples": [
+          "then he left",
+          "go left first, then right",
+          "first came lightning, then thunder",
+          "we watched the late movie and then went to bed",
+          "and so home and to bed"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in that case or as a consequence",
+        "examples": [
+          "if he didn't take it, then who did?",
+          "keep it then if you want to",
+          "the case, then, is closed",
+          "you've made up your mind then?",
+          "then you'll be rich"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "at that time",
+        "examples": [
+          "I was young then",
+          "prices were lower back then",
+          "science as it was then taught"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "that time; that moment",
+        "examples": [
+          "we will arrive before then",
+          "we were friends from then on"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "at a specific prior time",
+        "examples": [
+          "the then president"
+        ]
+      }
+    ],
+    "examples": [
+      "then he left",
+      "go left first, then right",
+      "first came lightning, then thunder",
+      "we watched the late movie and then went to bed",
+      "and so home and to bed",
+      "if he didn't take it, then who did?",
+      "keep it then if you want to",
+      "the case, then, is closed",
+      "you've made up your mind then?",
+      "then you'll be rich",
+      "I was young then",
+      "prices were lower back then",
+      "science as it was then taught",
+      "we will arrive before then",
+      "we were friends from then on",
+      "the then president"
+    ],
+    "synonyms": [
+      "so",
+      "and so",
+      "and then"
+    ],
+    "antonyms": [],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.07
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "back",
+    "parts_of_speech": [
+      "adverb",
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "definitions": [
+      "in or to or toward a former location",
+      "the posterior part of a human (or animal) body from the neck to the end of the spine",
+      "at or to or toward the back or rear",
+      "in or to or toward an original condition",
+      "related to or located at the back",
+      "in or to or toward a past time",
+      "in reply",
+      "be behind; approve of"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in or to or toward a former location",
+        "examples": [
+          "she went back to her parents' house"
+        ],
+        "synonyms": [
+          "back"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the posterior part of a human (or animal) body from the neck to the end of the spine",
+        "examples": [
+          "his back was nicely tanned"
+        ],
+        "synonyms": [
+          "back",
+          "dorsum"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "at or to or toward the back or rear",
+        "examples": [
+          "he moved back",
+          "tripped when he stepped backward",
+          "she looked rearward out the window of the car"
+        ],
+        "synonyms": [
+          "back",
+          "backward",
+          "backwards",
+          "rearward",
+          "rearwards"
+        ],
+        "antonyms": [
+          "forward"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in or to or toward an original condition",
+        "examples": [
+          "he went back to sleep"
+        ],
+        "synonyms": [
+          "back"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "related to or located at the back",
+        "examples": [
+          "the back yard",
+          "the back entrance"
+        ],
+        "synonyms": [
+          "back"
+        ],
+        "antonyms": [
+          "front"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in or to or toward a past time",
+        "examples": [
+          "set the clocks back an hour",
+          "never look back",
+          "lovers of the past looking fondly backward"
+        ],
+        "synonyms": [
+          "back",
+          "backward"
+        ],
+        "antonyms": [
+          "ahead",
+          "forward"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in reply",
+        "examples": [
+          "he wrote back three days later"
+        ],
+        "synonyms": [
+          "back"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be behind; approve of",
+        "examples": [
+          "He plumped for the Labor Party",
+          "I backed Kennedy in 1960"
+        ],
+        "synonyms": [
+          "back",
+          "endorse",
+          "indorse",
+          "plump for",
+          "plunk for",
+          "support"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in or to or toward a former location",
+        "examples": [
+          "she went back to her parents' house"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the posterior part of a human (or animal) body from the neck to the end of the spine",
+        "examples": [
+          "his back was nicely tanned"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "at or to or toward the back or rear",
+        "examples": [
+          "he moved back",
+          "tripped when he stepped backward",
+          "she looked rearward out the window of the car"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in or to or toward an original condition",
+        "examples": [
+          "he went back to sleep"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "related to or located at the back",
+        "examples": [
+          "the back yard",
+          "the back entrance"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in or to or toward a past time",
+        "examples": [
+          "set the clocks back an hour",
+          "never look back",
+          "lovers of the past looking fondly backward"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "in reply",
+        "examples": [
+          "he wrote back three days later"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be behind; approve of",
+        "examples": [
+          "He plumped for the Labor Party",
+          "I backed Kennedy in 1960"
+        ]
+      }
+    ],
+    "examples": [
+      "she went back to her parents' house",
+      "his back was nicely tanned",
+      "he moved back",
+      "tripped when he stepped backward",
+      "she looked rearward out the window of the car",
+      "he went back to sleep",
+      "the back yard",
+      "the back entrance",
+      "set the clocks back an hour",
+      "never look back",
+      "lovers of the past looking fondly backward",
+      "he wrote back three days later",
+      "He plumped for the Labor Party",
+      "I backed Kennedy in 1960"
+    ],
+    "synonyms": [
+      "dorsum",
+      "backward",
+      "backwards",
+      "rearward",
+      "rearwards",
+      "endorse",
+      "indorse",
+      "plump for",
+      "plunk for",
+      "support"
+    ],
+    "antonyms": [
+      "forward",
+      "front",
+      "ahead"
+    ],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.04
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "want",
+    "parts_of_speech": [
+      "verb"
+    ],
+    "definitions": [
+      "have need of",
+      "hunt or look for; want for a particular reason",
+      "wish or demand the presence of"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have need of",
+        "examples": [
+          "This piano wants the attention of a competent tuner"
+        ],
+        "synonyms": [
+          "want",
+          "need",
+          "require"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "hunt or look for; want for a particular reason",
+        "examples": [
+          "Your former neighbor is wanted by the FBI",
+          "Uncle Sam wants you"
+        ],
+        "synonyms": [
+          "want"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "wish or demand the presence of",
+        "examples": [
+          "I want you here at noon!"
+        ],
+        "synonyms": [
+          "want"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "have need of",
+        "examples": [
+          "This piano wants the attention of a competent tuner"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "hunt or look for; want for a particular reason",
+        "examples": [
+          "Your former neighbor is wanted by the FBI",
+          "Uncle Sam wants you"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "wish or demand the presence of",
+        "examples": [
+          "I want you here at noon!"
+        ]
+      }
+    ],
+    "examples": [
+      "This piano wants the attention of a competent tuner",
+      "Your former neighbor is wanted by the FBI",
+      "Uncle Sam wants you",
+      "I want you here at noon!"
+    ],
+    "synonyms": [
+      "need",
+      "require"
+    ],
+    "antonyms": [],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 1,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.04
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "go",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "definitions": [
+      "follow a procedure or take a course",
+      "move away from a place into another direction",
+      "be awarded; be allotted",
+      "be abolished or discarded",
+      "be or continue to be in a certain condition",
+      "pass, fare, or elapse; of a certain state of affairs or action",
+      "be ranked or compare",
+      "a time for working (after which you will be relieved by someone else)"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "follow a procedure or take a course",
+        "examples": [
+          "We should go farther in this matter",
+          "She went through a lot of trouble",
+          "go about the world in a certain manner",
+          "Messages must go through diplomatic channels"
+        ],
+        "synonyms": [
+          "go",
+          "proceed",
+          "move"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "move away from a place into another direction",
+        "examples": [
+          "Go away before I start to cry",
+          "The train departs at noon"
+        ],
+        "synonyms": [
+          "go",
+          "go away",
+          "depart"
+        ],
+        "antonyms": [
+          "come"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be awarded; be allotted",
+        "examples": [
+          "The first prize goes to Mary",
+          "Her money went on clothes"
+        ],
+        "synonyms": [
+          "go"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be abolished or discarded",
+        "examples": [
+          "These ugly billboards have to go!",
+          "These luxuries all had to go under the Khmer Rouge"
+        ],
+        "synonyms": [
+          "go"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be or continue to be in a certain condition",
+        "examples": [
+          "The children went hungry that day"
+        ],
+        "synonyms": [
+          "go"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "pass, fare, or elapse; of a certain state of affairs or action",
+        "examples": [
+          "How is it going?",
+          "The day went well until I got your call"
+        ],
+        "synonyms": [
+          "go"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be ranked or compare",
+        "examples": [
+          "This violinist is as good as Juilliard-trained violinists go"
+        ],
+        "synonyms": [
+          "go"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a time for working (after which you will be relieved by someone else)",
+        "examples": [
+          "it's my go",
+          "a spell of work"
+        ],
+        "synonyms": [
+          "go",
+          "spell",
+          "tour",
+          "turn"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "follow a procedure or take a course",
+        "examples": [
+          "We should go farther in this matter",
+          "She went through a lot of trouble",
+          "go about the world in a certain manner",
+          "Messages must go through diplomatic channels"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "move away from a place into another direction",
+        "examples": [
+          "Go away before I start to cry",
+          "The train departs at noon"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be awarded; be allotted",
+        "examples": [
+          "The first prize goes to Mary",
+          "Her money went on clothes"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be abolished or discarded",
+        "examples": [
+          "These ugly billboards have to go!",
+          "These luxuries all had to go under the Khmer Rouge"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be or continue to be in a certain condition",
+        "examples": [
+          "The children went hungry that day"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "pass, fare, or elapse; of a certain state of affairs or action",
+        "examples": [
+          "How is it going?",
+          "The day went well until I got your call"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "be ranked or compare",
+        "examples": [
+          "This violinist is as good as Juilliard-trained violinists go"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a time for working (after which you will be relieved by someone else)",
+        "examples": [
+          "it's my go",
+          "a spell of work"
+        ]
+      }
+    ],
+    "examples": [
+      "We should go farther in this matter",
+      "She went through a lot of trouble",
+      "go about the world in a certain manner",
+      "Messages must go through diplomatic channels",
+      "Go away before I start to cry",
+      "The train departs at noon",
+      "The first prize goes to Mary",
+      "Her money went on clothes",
+      "These ugly billboards have to go!",
+      "These luxuries all had to go under the Khmer Rouge",
+      "The children went hungry that day",
+      "How is it going?",
+      "The day went well until I got your call",
+      "This violinist is as good as Juilliard-trained violinists go",
+      "it's my go",
+      "a spell of work"
+    ],
+    "synonyms": [
+      "proceed",
+      "move",
+      "go away",
+      "depart",
+      "spell",
+      "tour",
+      "turn"
+    ],
+    "antonyms": [
+      "come"
+    ],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.03
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "well",
+    "parts_of_speech": [
+      "adverb",
+      "noun",
+      "adjective"
+    ],
+    "definitions": [
+      "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')",
+      "thoroughly or completely; fully; often used as a combining form; ; ; ; ; ,",
+      "indicating high probability; in all likelihood",
+      "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
+      "(used for emphasis or as an intensifier) entirely or fully",
+      "in good health especially after having suffered illness or injury",
+      "to a suitable or appropriate extent or degree",
+      "favorably; with approval"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')",
+        "examples": [
+          "the children behaved well",
+          "a task well done",
+          "the party went well",
+          "he slept well",
+          "a well-argued thesis",
+          "a well-seasoned dish",
+          "a well-planned party",
+          "the baby can walk pretty good"
+        ],
+        "synonyms": [
+          "well",
+          "good"
+        ],
+        "antonyms": [
+          "ill"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "thoroughly or completely; fully; often used as a combining form; ; ; ; ; ,",
+        "examples": [
+          "The problem is well understood",
+          "she was well informed",
+          "shake well before using",
+          "in order to avoid food poisoning be sure the meat is well cooked",
+          "well-done beef",
+          "well-satisfied customers",
+          "well-educated"
+        ],
+        "synonyms": [
+          "well"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "indicating high probability; in all likelihood",
+        "examples": [
+          "I might well do it",
+          "a mistake that could easily have ended in disaster",
+          "you may well need your umbrella",
+          "he could equally well be trying to deceive us"
+        ],
+        "synonyms": [
+          "well",
+          "easily"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
+        "examples": [],
+        "synonyms": [
+          "well"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "(used for emphasis or as an intensifier) entirely or fully",
+        "examples": [
+          "a book well worth reading",
+          "was well aware of the difficulties ahead",
+          "suspected only too well what might be going on"
+        ],
+        "synonyms": [
+          "well"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "in good health especially after having suffered illness or injury",
+        "examples": [
+          "appears to be entirely well",
+          "the wound is nearly well",
+          "a well man",
+          "I think I'm well; at least I feel well"
+        ],
+        "synonyms": [
+          "well"
+        ],
+        "antonyms": [
+          "ill"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to a suitable or appropriate extent or degree",
+        "examples": [
+          "the project was well underway",
+          "the fetus has well developed organs",
+          "his father was well pleased with his grades"
+        ],
+        "synonyms": [
+          "well"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "favorably; with approval",
+        "examples": [
+          "their neighbors spoke well of them",
+          "he thought well of the book"
+        ],
+        "synonyms": [
+          "well"
+        ],
+        "antonyms": [
+          "ill"
+        ]
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')",
+        "examples": [
+          "the children behaved well",
+          "a task well done",
+          "the party went well",
+          "he slept well",
+          "a well-argued thesis",
+          "a well-seasoned dish",
+          "a well-planned party",
+          "the baby can walk pretty good"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "thoroughly or completely; fully; often used as a combining form; ; ; ; ; ,",
+        "examples": [
+          "The problem is well understood",
+          "she was well informed",
+          "shake well before using",
+          "in order to avoid food poisoning be sure the meat is well cooked",
+          "well-done beef",
+          "well-satisfied customers",
+          "well-educated"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "indicating high probability; in all likelihood",
+        "examples": [
+          "I might well do it",
+          "a mistake that could easily have ended in disaster",
+          "you may well need your umbrella",
+          "he could equally well be trying to deceive us"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
+        "examples": []
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "(used for emphasis or as an intensifier) entirely or fully",
+        "examples": [
+          "a book well worth reading",
+          "was well aware of the difficulties ahead",
+          "suspected only too well what might be going on"
+        ]
+      },
+      {
+        "part_of_speech": "adjective",
+        "definition_en": "in good health especially after having suffered illness or injury",
+        "examples": [
+          "appears to be entirely well",
+          "the wound is nearly well",
+          "a well man",
+          "I think I'm well; at least I feel well"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "to a suitable or appropriate extent or degree",
+        "examples": [
+          "the project was well underway",
+          "the fetus has well developed organs",
+          "his father was well pleased with his grades"
+        ]
+      },
+      {
+        "part_of_speech": "adverb",
+        "definition_en": "favorably; with approval",
+        "examples": [
+          "their neighbors spoke well of them",
+          "he thought well of the book"
+        ]
+      }
+    ],
+    "examples": [
+      "the children behaved well",
+      "a task well done",
+      "the party went well",
+      "he slept well",
+      "a well-argued thesis",
+      "a well-seasoned dish",
+      "a well-planned party",
+      "the baby can walk pretty good",
+      "The problem is well understood",
+      "she was well informed",
+      "shake well before using",
+      "in order to avoid food poisoning be sure the meat is well cooked",
+      "well-done beef",
+      "well-satisfied customers",
+      "well-educated",
+      "I might well do it",
+      "a mistake that could easily have ended in disaster",
+      "you may well need your umbrella",
+      "he could equally well be trying to deceive us",
+      "a book well worth reading",
+      "was well aware of the difficulties ahead",
+      "suspected only too well what might be going on",
+      "appears to be entirely well",
+      "the wound is nearly well",
+      "a well man",
+      "I think I'm well; at least I feel well",
+      "the project was well underway",
+      "the fetus has well developed organs",
+      "his father was well pleased with his grades",
+      "their neighbors spoke well of them",
+      "he thought well of the book"
+    ],
+    "synonyms": [
+      "good",
+      "easily"
+    ],
+    "antonyms": [
+      "ill"
+    ],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 2,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 6.03
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "say",
+    "parts_of_speech": [
+      "verb",
+      "noun"
+    ],
+    "definitions": [
+      "communicate or express nonverbally",
+      "utter aloud",
+      "the chance to speak"
+    ],
+    "senses": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "communicate or express nonverbally",
+        "examples": [
+          "What does this painting say?",
+          "Did his face say anything about how he felt?"
+        ],
+        "synonyms": [
+          "say"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "utter aloud",
+        "examples": [
+          "She said `Hello' to everyone in the office"
+        ],
+        "synonyms": [
+          "say"
+        ],
+        "antonyms": []
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the chance to speak",
+        "examples": [
+          "let him have his say"
+        ],
+        "synonyms": [
+          "say"
+        ],
+        "antonyms": []
+      }
+    ],
+    "meanings": [
+      {
+        "part_of_speech": "verb",
+        "definition_en": "communicate or express nonverbally",
+        "examples": [
+          "What does this painting say?",
+          "Did his face say anything about how he felt?"
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition_en": "utter aloud",
+        "examples": [
+          "She said `Hello' to everyone in the office"
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition_en": "the chance to speak",
+        "examples": [
+          "let him have his say"
+        ]
+      }
+    ],
+    "examples": [
+      "What does this painting say?",
+      "Did his face say anything about how he felt?",
+      "She said `Hello' to everyone in the office",
+      "let him have his say"
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "evaluation_status": "complete",
+    "difficulty": {
+      "level": 1,
+      "score": 1,
+      "components": {
+        "frequency": 0,
+        "abstractness": 1,
+        "semantic_complexity": 0,
+        "form_complexity": 0,
+        "register": 0
+      },
+      "zipf": 5.89
+    },
+    "evaluation_model": "qwen2.5:7b"
+  },
+  {
+    "word": "way",
+    "parts_of_speech": [
+      "noun",
+      "adverb"
+    ],
+    "definitions": [
+      "the condition of things generally",
+      "a course of conduct",
+      "any artifact consisting of a road or path affording passage from one place to another",
+      "a journey or passage",
+      "the property of distance in general",
+      "to a great degree or by a great distance; very much (`right smart' is regional in the United States)",
+      "doing as one pleases or chooses",
+      "a general category of things; used in the expression `in the way of'"
     ],
     "senses": [
       {
         "part_of_speech": "noun",
-        "definition_en": "the smallest whole number or a numeral representing this number",
+        "definition_en": "the condition of things generally",
         "examples": [
-          "he has the one but will need a two and three to go with it",
-          "they had lunch at one"
+          "that's the way it is",
+          "I felt the same way"
         ],
         "synonyms": [
-          "one",
-          "1",
-          "I",
-          "ace",
-          "single",
-          "unity"
+          "way"
         ],
         "antonyms": []
       },
       {
         "part_of_speech": "noun",
-        "definition_en": "a single person or thing",
+        "definition_en": "a course of conduct",
         "examples": [
-          "he is the best one",
-          "this is the one I ordered"
+          "the path of virtue",
+          "we went our separate ways",
+          "our paths in life led us apart",
+          "genius usually follows a revolutionary path"
         ],
         "synonyms": [
-          "one"
+          "way",
+          "path",
+          "way of life"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "used of a single unit or thing; not two or more",
+        "part_of_speech": "noun",
+        "definition_en": "any artifact consisting of a road or path affording passage from one place to another",
         "examples": [
-          "`ane' is Scottish"
+          "he said he was looking for the way out"
         ],
         "synonyms": [
-          "one",
-          "1",
-          "i",
-          "ane"
+          "way"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "having the indivisible character of a unit",
+        "part_of_speech": "noun",
+        "definition_en": "a journey or passage",
         "examples": [
-          "a unitary action",
-          "spoke with one voice"
+          "they are on the way"
         ],
         "synonyms": [
-          "one",
-          "unitary"
+          "way"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "of the same kind or quality",
+        "part_of_speech": "noun",
+        "definition_en": "the property of distance in general",
         "examples": [
-          "two animals of one species"
+          "it's a long way to Moscow",
+          "he went a long ways"
         ],
         "synonyms": [
-          "one"
+          "way"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "used informally as an intensifier",
+        "part_of_speech": "adverb",
+        "definition_en": "to a great degree or by a great distance; very much (`right smart' is regional in the United States)",
         "examples": [
-          "that is one fine dog"
+          "way over budget",
+          "way off base",
+          "the other side of the hill is right smart steeper than the side we are on"
         ],
         "synonyms": [
-          "one"
+          "way",
+          "right smart"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "indefinite in time or position",
+        "part_of_speech": "noun",
+        "definition_en": "doing as one pleases or chooses",
         "examples": [
-          "he will come one day",
-          "one place or another"
+          "if I had my way"
         ],
         "synonyms": [
-          "one"
+          "way"
         ],
         "antonyms": []
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "being a single entity made by combining separate components",
+        "part_of_speech": "noun",
+        "definition_en": "a general category of things; used in the expression `in the way of'",
         "examples": [
-          "three chemicals combining into one solution"
+          "they didn't have much in the way of clothing"
         ],
         "synonyms": [
-          "one"
+          "way"
         ],
         "antonyms": []
       }
@@ -2781,100 +3923,104 @@
     "meanings": [
       {
         "part_of_speech": "noun",
-        "definition_en": "the smallest whole number or a numeral representing this number",
+        "definition_en": "the condition of things generally",
         "examples": [
-          "he has the one but will need a two and three to go with it",
-          "they had lunch at one"
+          "that's the way it is",
+          "I felt the same way"
         ]
       },
       {
         "part_of_speech": "noun",
-        "definition_en": "a single person or thing",
+        "definition_en": "a course of conduct",
         "examples": [
-          "he is the best one",
-          "this is the one I ordered"
+          "the path of virtue",
+          "we went our separate ways",
+          "our paths in life led us apart",
+          "genius usually follows a revolutionary path"
         ]
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "used of a single unit or thing; not two or more",
+        "part_of_speech": "noun",
+        "definition_en": "any artifact consisting of a road or path affording passage from one place to another",
         "examples": [
-          "`ane' is Scottish"
+          "he said he was looking for the way out"
         ]
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "having the indivisible character of a unit",
+        "part_of_speech": "noun",
+        "definition_en": "a journey or passage",
         "examples": [
-          "a unitary action",
-          "spoke with one voice"
+          "they are on the way"
         ]
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "of the same kind or quality",
+        "part_of_speech": "noun",
+        "definition_en": "the property of distance in general",
         "examples": [
-          "two animals of one species"
+          "it's a long way to Moscow",
+          "he went a long ways"
         ]
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "used informally as an intensifier",
+        "part_of_speech": "adverb",
+        "definition_en": "to a great degree or by a great distance; very much (`right smart' is regional in the United States)",
         "examples": [
-          "that is one fine dog"
+          "way over budget",
+          "way off base",
+          "the other side of the hill is right smart steeper than the side we are on"
         ]
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "indefinite in time or position",
+        "part_of_speech": "noun",
+        "definition_en": "doing as one pleases or chooses",
         "examples": [
-          "he will come one day",
-          "one place or another"
+          "if I had my way"
         ]
       },
       {
-        "part_of_speech": "adjective",
-        "definition_en": "being a single entity made by combining separate components",
+        "part_of_speech": "noun",
+        "definition_en": "a general category of things; used in the expression `in the way of'",
         "examples": [
-          "three chemicals combining into one solution"
+          "they didn't have much in the way of clothing"
         ]
       }
     ],
     "examples": [
-      "he has the one but will need a two and three to go with it",
-      "they had lunch at one",
-      "he is the best one",
-      "this is the one I ordered",
-      "`ane' is Scottish",
-      "a unitary action",
-      "spoke with one voice",
-      "two animals of one species",
-      "that is one fine dog",
-      "he will come one day",
-      "one place or another",
-      "three chemicals combining into one solution"
+      "that's the way it is",
+      "I felt the same way",
+      "the path of virtue",
+      "we went our separate ways",
+      "our paths in life led us apart",
+      "genius usually follows a revolutionary path",
+      "he said he was looking for the way out",
+      "they are on the way",
+      "it's a long way to Moscow",
+      "he went a long ways",
+      "way over budget",
+      "way off base",
+      "the other side of the hill is right smart steeper than the side we are on",
+      "if I had my way",
+      "they didn't have much in the way of clothing"
     ],
     "synonyms": [
-      "1",
-      "I",
-      "ace",
-      "single",
-      "unity",
-      "ane",
-      "unitary"
+      "path",
+      "way of life",
+      "right smart"
     ],
     "antonyms": [],
+    "evaluation_status": "complete",
     "difficulty": {
       "level": 1,
-      "score": 0,
+      "score": 2,
       "components": {
         "frequency": 0,
-        "abstractness": 0,
-        "semantic_complexity": 0,
+        "abstractness": 1,
+        "semantic_complexity": 1,
         "form_complexity": 0,
         "register": 0
       },
-      "zipf": 6.47
-    }
+      "zipf": 6.01
+    },
+    "evaluation_model": "qwen2.5:7b"
   }
 ]

@@ -29,6 +29,9 @@ Abstractness (0-2):
 0 = directly observable concrete object/person/animal/place/action/sensory property.
 1 = everyday abstract emotion, mental activity, state, relation, social action, or change.
 2 = theoretical, philosophical, ideological, logical, or highly conceptual.
+An action is not automatically concrete: verbs about preserving, evaluating, reducing,
+managing, or changing a condition (such as maintain or mitigate) normally describe an
+everyday abstract relation/state change and should usually receive 1.
 
 Semantic complexity (0-2):
 0 = one dominant common meaning, or only closely related meanings.
@@ -36,6 +39,8 @@ Semantic complexity (0-2):
 2 = multiple substantially different common meanings, major part-of-speech differences,
     or important figurative/idiomatic uses.
 Ignore obsolete or extremely rare senses; do not use the raw WordNet sense count alone.
+Common words with substantially different noun/verb meanings (for example, charge or
+issue) should not receive 0 merely because each individual sense is easy to understand.
 
 Form complexity (0-1):
 0 = spelling/pronunciation and form are reasonably regular.
@@ -47,6 +52,13 @@ Register (0-2):
 0 = natural in everyday conversation and daily life.
 1 = especially common in school, news, essays, presentations, or general exposition.
 2 = mainly academic, scientific, medical, legal, economic, specialist, literary, or formal.
+Do not assign 0 merely because a formal word is understandable. Words characteristic of
+careful explanatory prose (such as maintain, significant, or mitigate) usually warrant 1;
+terms strongly associated with research or formal scholarship (such as empirical) warrant 2.
+
+Calibration: a concrete everyday word such as apple should be near the low end overall;
+formal/academic words such as empirical or ubiquitous should score higher on the applicable
+components. These are rubric anchors, not permission to ignore the supplied senses.
 
 Every object must have exactly this shape:
 {"word":"example","abstractness":0,"semantic_complexity":0,"form_complexity":0,"register":0}
@@ -87,7 +99,7 @@ class OllamaEvaluator(DifficultyEvaluator):
         self,
         base_url: str,
         model: str,
-        timeout_seconds: float = 120.0,
+        timeout_seconds: float = 300.0,
         temperature: float = 0.0,
         context_window: int = 16_384,
     ) -> None:

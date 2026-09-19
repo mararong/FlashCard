@@ -47,6 +47,69 @@ POS_NAMES = {
     "s": "adjective",
     "r": "adverb",
 }
+CONTENT_POS = (wn.NOUN, wn.VERB, wn.ADJ, wn.ADV)
+
+# A deliberately conservative closed-class list. Unlike NLTK's broad English
+# stopword set, this does not discard ordinary content words such as "run",
+# "own", or "same" merely because they can appear in grammatical contexts.
+FUNCTION_WORDS = {
+    # articles and determiners
+    "a", "an", "the", "this", "that", "these", "those", "another", "other",
+    "each", "every", "either", "neither", "both", "all", "any", "some", "no", "only",
+    "few", "many", "much", "more", "most", "less", "least", "several", "such",
+    # personal, possessive, reflexive, relative, and interrogative pronouns
+    "i", "me", "my", "mine", "myself", "we", "us", "our", "ours", "ourselves",
+    "you", "your", "yours", "yourself", "yourselves", "he", "him", "his",
+    "himself", "she", "her", "hers", "herself", "it", "its", "itself", "they",
+    "them", "their", "theirs", "themselves", "who", "whom", "whose", "which",
+    "what", "whatever", "whoever", "whomever",
+    # prepositions and basic grammatical particles
+    "about", "above", "across", "after", "against", "along", "among", "around",
+    "at", "before", "behind", "below", "beneath", "beside", "between", "beyond",
+    "by", "despite", "down", "during", "except", "for", "from", "in", "inside",
+    "into", "near", "of", "off", "on", "onto", "opposite", "out", "outside",
+    "over", "past", "per", "through", "throughout", "to", "toward", "towards",
+    "under", "underneath", "until", "up", "upon", "via", "with", "within",
+    "without",
+    # conjunctions and clause markers
+    "and", "or", "but", "nor", "so", "yet", "as", "because", "although",
+    "though", "unless", "whether", "while", "whereas", "if", "than", "when",
+    "whenever", "where", "wherever", "why", "how",
+    # auxiliaries, modals, copulas, negation, and existential/function adverbs
+    "be", "am", "is", "are", "was", "were", "been", "being", "have", "has",
+    "had", "having", "do", "does", "did", "doing", "will", "would", "shall",
+    "should", "can", "could", "may", "might", "must", "ought", "need", "dare",
+    "not", "here", "there", "very", "too",
+    # basic numeral/determiner forms
+    "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
+    "ten",
+}
+
+FIXED_TEST_WORDS = [
+    "apple",
+    "dog",
+    "run",
+    "happy",
+    "maintain",
+    "significant",
+    "approach",
+    "charge",
+    "issue",
+    "justice",
+    "empirical",
+    "mitigate",
+    "ubiquitous",
+]
+
+RARE_OR_OBSOLETE_RE = re.compile(
+    r"\b(?:archaic|obsolete|dated|rarely used|old-fashioned|antiquated)\b",
+    re.IGNORECASE,
+)
+ABBREVIATION_SENSE_RE = re.compile(
+    r"\b(?:abbreviation|acronym|initialism|atomic number|chemical element|"
+    r"unit of (?:length|weight|mass|measurement)|us state|u\.s\. state)\b",
+    re.IGNORECASE,
+)
 
 
 class PipelineError(RuntimeError):
@@ -102,9 +165,75 @@ def _display_lemma(name: str) -> str:
     return name.replace("_", " ")
 
 
+def normalize_wordnet_lemma(word: str) -> str:
+    """Return a natural WordNet dictionary lemma without blind stemming."""
+    word = word.lower()
+
+    # WordNet exceptions capture irregular forms such as went -> go and
+    # better -> good. Prefer verbal exceptions, then nominal/adjectival ones.
+    exception_map = getattr(wn, "_exception_map", {})
+    for pos in (wn.VERB, wn.NOUN, wn.ADJ, wn.ADV):
+        exceptions = exception_map.get(pos, {}).get(word, [])
+        if exceptions:
+            return exceptions[0].lower()
+
+    # For regular inflections, prefer a changed content-word lemma. This maps
+    # running -> run and cars -> car while leaving an uninflected word intact.
+    for pos in (wn.VERB, wn.NOUN, wn.ADJ, wn.ADV):
+        lemma = wn.morphy(word, pos)
+        if lemma and lemma.lower() != word:
+            return lemma.lower()
+    return word
+
+
+def _matching_lemmas(word: str, synset: Any) -> list[Any]:
+    """Match case-sensitively so IT/In/Be symbols do not match it/in/be."""
+    return [
+        lemma
+        for lemma in synset.lemmas()
+        if _display_lemma(lemma.name()) == word
+    ]
+
+
+def _is_general_modern_sense(word: str, synset: Any, original_rank: int) -> bool:
+    if synset.pos() not in POS_NAMES:
+        return False
+    matching = _matching_lemmas(word, synset)
+    if not matching:
+        return False
+
+    definition = synset.definition()
+    if RARE_OR_OBSOLETE_RE.search(definition):
+        return False
+    if ABBREVIATION_SENSE_RE.search(definition):
+        return False
+
+    primary = _display_lemma(synset.lemmas()[0].name())
+    # Short aliases whose primary lemma is a different word are overwhelmingly
+    # units/symbols (in -> inch, At -> astatine, etc.).
+    if len(word) <= 4 and primary != word:
+        return False
+
+    # WordNet is ordered by estimated sense frequency. Keep corpus-attested
+    # senses plus the first few principal senses for words absent from SemCor.
+    usage_count = max(lemma.count() for lemma in matching)
+    return usage_count > 0 or original_rank < 3
+
+
 def collect_wordnet_data(word: str, max_senses: int) -> dict[str, Any] | None:
-    """Collect the leading WordNet senses and normalized dictionary fields."""
-    synsets = wn.synsets(word)
+    """Collect modern, non-abbreviation content-word senses."""
+    ranked_synsets = [
+        (rank, synset)
+        for rank, synset in enumerate(wn.synsets(word))
+        if _is_general_modern_sense(word, synset, rank)
+    ]
+    ranked_synsets.sort(
+        key=lambda pair: (
+            -max(lemma.count() for lemma in _matching_lemmas(word, pair[1])),
+            pair[0],
+        )
+    )
+    synsets = [synset for _, synset in ranked_synsets[:max_senses]]
     if not synsets:
         return None
 
@@ -114,15 +243,20 @@ def collect_wordnet_data(word: str, max_senses: int) -> dict[str, Any] | None:
     seen_synonyms: set[str] = set()
     seen_antonyms: set[str] = set()
 
-    for synset in synsets[:max_senses]:
+    for synset in synsets:
         sense_synonyms: list[str] = []
         sense_antonyms: list[str] = []
         for lemma in synset.lemmas():
             synonym = _display_lemma(lemma.name())
-            if synonym.lower() != word.lower() and synonym.lower() not in seen_synonyms:
+            is_acronym = lemma.name().isupper() and len(lemma.name()) <= 6
+            if (
+                synonym.lower() != word.lower()
+                and synonym.lower() not in seen_synonyms
+                and not is_acronym
+            ):
                 seen_synonyms.add(synonym.lower())
                 synonyms.append(synonym)
-            if synonym not in sense_synonyms:
+            if synonym not in sense_synonyms and not is_acronym:
                 sense_synonyms.append(synonym)
             for antonym_lemma in lemma.antonyms():
                 antonym = _display_lemma(antonym_lemma.name())
@@ -204,32 +338,63 @@ def generate_candidates(
     limit: int,
     max_senses: int,
     rejected: list[dict[str, Any]],
+    fixed_words: list[str] | None = None,
 ) -> list[dict[str, Any]]:
     """Generate, validate, and enrich up to ``limit`` distinct candidates."""
     if candidate_count < 1 or limit < 1 or max_senses < 1:
         raise PipelineError("candidate-count, limit, and max-senses must be positive")
 
+    source_words = fixed_words if fixed_words is not None else top_n_list("en", candidate_count)
+    target_limit = len(fixed_words) if fixed_words is not None else limit
     candidates: list[dict[str, Any]] = []
-    seen: set[str] = set()
-    for raw_word in top_n_list("en", candidate_count):
-        word = raw_word.lower()
-        if word in seen:
+    seen_raw: set[str] = set()
+    seen_lemmas: set[str] = set()
+    for raw_word in source_words:
+        raw_word = raw_word.lower()
+        if raw_word in seen_raw:
             continue
-        seen.add(word)
-        if len(word) < 2 or not ENGLISH_WORD_RE.fullmatch(word):
+        seen_raw.add(raw_word)
+        if len(raw_word) < 2 or not ENGLISH_WORD_RE.fullmatch(raw_word):
             continue
+        if raw_word in FUNCTION_WORDS:
+            upsert_rejection(
+                rejected, raw_word, "function_word", "Closed-class grammar word", False
+            )
+            continue
+
+        word = normalize_wordnet_lemma(raw_word)
+        if word in FUNCTION_WORDS:
+            upsert_rejection(
+                rejected,
+                raw_word,
+                "function_word",
+                f"Normalizes to grammar word: {word}",
+                False,
+            )
+            continue
+        if word in seen_lemmas:
+            upsert_rejection(
+                rejected,
+                raw_word,
+                "normalization",
+                f"Duplicate dictionary lemma: {word}",
+                False,
+            )
+            continue
+
         wordnet_data = collect_wordnet_data(word, max_senses)
         if wordnet_data is None:
             upsert_rejection(
                 rejected,
-                word,
+                raw_word,
                 "wordnet",
-                "No usable WordNet definition",
+                f"No usable modern content-word sense for lemma: {word}",
                 False,
             )
             continue
+        seen_lemmas.add(word)
         candidates.append(wordnet_data)
-        if len(candidates) >= limit:
+        if len(candidates) >= target_limit:
             break
     return candidates
 
@@ -302,12 +467,53 @@ def evaluate_with_retries(
     raise last_error
 
 
-def build_entry(word_data: dict[str, Any], ai_scores: dict[str, int]) -> dict[str, Any]:
+def _difficulty_shell(word: str) -> dict[str, Any]:
+    zipf = round(float(zipf_frequency(word, "en")), 3)
+    return {
+        "level": None,
+        "score": None,
+        "components": {
+            "frequency": frequency_score(zipf),
+            "abstractness": None,
+            "semantic_complexity": None,
+            "form_complexity": None,
+            "register": None,
+        },
+        "zipf": zipf,
+    }
+
+
+def build_pending_entry(
+    word_data: dict[str, Any],
+    status: str = "pending_ai",
+    error: str | None = None,
+    model: str | None = None,
+) -> dict[str, Any]:
+    if status not in {"pending_ai", "failed_ai"}:
+        raise ValueError(f"Invalid incomplete evaluation status: {status}")
+    entry = {
+        **word_data,
+        "evaluation_status": status,
+        "difficulty": _difficulty_shell(word_data["word"]),
+    }
+    if model:
+        entry["evaluation_model"] = model
+    if error:
+        entry["evaluation_error"] = error
+    return entry
+
+
+def build_entry(
+    word_data: dict[str, Any],
+    ai_scores: dict[str, int],
+    model: str | None = None,
+) -> dict[str, Any]:
     zipf = round(float(zipf_frequency(word_data["word"], "en")), 3)
     components = {"frequency": frequency_score(zipf), **ai_scores}
     total_score = sum(components.values())
-    return {
+    entry = {
         **word_data,
+        "evaluation_status": "complete",
         "difficulty": {
             "level": level_from_score(total_score),
             "score": total_score,
@@ -315,6 +521,19 @@ def build_entry(word_data: dict[str, Any], ai_scores: dict[str, int]) -> dict[st
             "zipf": zipf,
         },
     }
+    if model:
+        entry["evaluation_model"] = model
+    return entry
+
+
+def upsert_vocabulary_entry(
+    vocabulary: list[dict[str, Any]], entry: dict[str, Any]
+) -> None:
+    for index, existing in enumerate(vocabulary):
+        if existing.get("word") == entry["word"]:
+            vocabulary[index] = entry
+            return
+    vocabulary.append(entry)
 
 
 def chunked(items: list[dict[str, Any]], size: int) -> Iterable[list[dict[str, Any]]]:
@@ -323,8 +542,15 @@ def chunked(items: list[dict[str, Any]], size: int) -> Iterable[list[dict[str, A
 
 
 def run_pipeline(args: argparse.Namespace, evaluator: DifficultyEvaluator) -> int:
-    if args.batch_size < 1 or args.ai_retries < 1:
-        raise PipelineError("batch-size and ai-retries must be positive")
+    if (
+        args.batch_size < 1
+        or args.ai_retries < 1
+        or args.ai_timeout <= 0
+        or args.ai_context_window < 1
+    ):
+        raise PipelineError(
+            "batch-size, ai-retries, ai-timeout, and ai-context-window must be positive"
+        )
     if args.reset:
         atomic_write_json(VOCABULARY_PATH, [])
         atomic_write_json(REJECTED_PATH, [])
@@ -334,22 +560,41 @@ def run_pipeline(args: argparse.Namespace, evaluator: DifficultyEvaluator) -> in
 
     vocabulary = load_json_list(VOCABULARY_PATH) if args.resume else []
     rejected = load_json_list(REJECTED_PATH) if args.resume else []
-    processed_words = {
-        item.get("word") for item in vocabulary if isinstance(item.get("word"), str)
+    completed_words = {
+        item.get("word")
+        for item in vocabulary
+        if isinstance(item.get("word"), str)
+        and item.get("evaluation_status") == "complete"
     }
 
-    print(
-        f"Generating up to {args.limit} valid words from "
-        f"{args.candidate_count} wordfreq candidates..."
-    )
+    fixed_words = FIXED_TEST_WORDS if args.fixed_test_words else None
+    if fixed_words:
+        print(f"Evaluating {len(fixed_words)} fixed quality-test words...")
+    else:
+        print(
+            f"Generating up to {args.limit} valid words from "
+            f"{args.candidate_count} wordfreq candidates..."
+        )
     candidates = generate_candidates(
-        args.candidate_count, args.limit, args.max_senses, rejected
+        args.candidate_count,
+        args.limit,
+        args.max_senses,
+        rejected,
+        fixed_words=fixed_words,
     )
     atomic_write_json(REJECTED_PATH, rejected)
-    if not VOCABULARY_PATH.exists():
-        atomic_write_json(VOCABULARY_PATH, vocabulary)
 
-    pending = [item for item in candidates if item["word"] not in processed_words]
+    # Persist dictionary data before calling AI. A crash or provider failure can
+    # therefore resume these explicit pending entries rather than losing them.
+    for item in candidates:
+        if item["word"] not in completed_words:
+            upsert_vocabulary_entry(
+                vocabulary,
+                build_pending_entry(item, model=args.model),
+            )
+    atomic_write_json(VOCABULARY_PATH, vocabulary)
+
+    pending = [item for item in candidates if item["word"] not in completed_words]
     print(
         f"Valid candidates: {len(candidates)}; already processed: "
         f"{len(candidates) - len(pending)}; pending: {len(pending)}"
@@ -365,6 +610,15 @@ def run_pipeline(args: argparse.Namespace, evaluator: DifficultyEvaluator) -> in
         except AIProviderError as exc:
             reason = str(exc)
             for item in batch:
+                upsert_vocabulary_entry(
+                    vocabulary,
+                    build_pending_entry(
+                        item,
+                        status="failed_ai",
+                        error=reason,
+                        model=args.model,
+                    ),
+                )
                 upsert_rejection(
                     rejected, item["word"], "ai_evaluation", reason, True
                 )
@@ -379,7 +633,10 @@ def run_pipeline(args: argparse.Namespace, evaluator: DifficultyEvaluator) -> in
 
         for item in batch:
             word = item["word"]
-            vocabulary.append(build_entry(item, evaluations[word]))
+            upsert_vocabulary_entry(
+                vocabulary,
+                build_entry(item, evaluations[word], model=args.model),
+            )
             remove_ai_rejection(rejected, word)
             completed_now += 1
         atomic_write_json(VOCABULARY_PATH, vocabulary)
@@ -405,6 +662,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument("--ai-timeout", type=float, default=DEFAULT_AI_TIMEOUT_SECONDS)
     parser.add_argument(
         "--ai-context-window", type=int, default=DEFAULT_AI_CONTEXT_WINDOW
+    )
+    parser.add_argument(
+        "--fixed-test-words",
+        action="store_true",
+        help="evaluate the built-in 13-word quality test set instead of wordfreq",
     )
     resume_group = parser.add_mutually_exclusive_group()
     resume_group.add_argument("--resume", dest="resume", action="store_true")
